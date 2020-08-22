@@ -18,14 +18,14 @@ We are in Discovery phase of Design Thinking methodology...
 
 1. Prablem statment with Double Diamond Strategy
     -  Discover, Define, Deliver, and Develop
-```
-PROBLEM STATEMENT FORMAT
+    '''
+    PROBLEM STATEMENT FORMAT
 
-[The name of your proto-persona]
-needs a way to [user’s need]
-because [insight].
-We will know this to be true when we see [this quantitative / qualitative measure].
-```
+    [The name of your proto-persona]
+    needs a way to [user’s need]
+    because [insight].
+    We will know this to be true when we see [this quantitative / qualitative measure].
+    '''
 
 1. Competative Analysis
 
