@@ -1,6 +1,6 @@
 # What are we doing now?
 
-We are in Discovery phase of Design Thinking methodology...     
+We are in ***Discovery*** phase of Design Thinking methodology...     
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/design_thinking_process.jpg)
 
@@ -16,6 +16,13 @@ We are in Discovery phase of Design Thinking methodology...
     - Where 
     - How 
     - Why
+    - What problem are we trying to solve?
+    - How do we know this is a real problem?
+    - Why is it important to solve?
+    - Who are our users? What are their goals and motivations?
+    - How will we know if we’ve solved the problem?
+    - “How Might We” Questions
+    - *Affinity Diagrams?
 
 1. Prablem statment with Double Diamond Strategy
     -  Discover, Define, Deliver, and Develop    
