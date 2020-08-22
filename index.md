@@ -9,5 +9,5 @@
 
 - Contact us @ aiforagriculture2020@gmail.com  
 
-- [To the project page...](./assets/pages/another-page.html).
+- [More Details...](./assets/pages/design_thinking.md).
 
