@@ -42,7 +42,7 @@ We are in ***Discovery*** phase of Design Thinking methodology...
 
 
 # Specific case studies.
-1. [Potato - Image based crops readiness]()
+1. [Potato - Image based crops readiness](./assets/pages/Potato__Image_based_crops_readiness.md)
 
 # References
 - [Design Thinking](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
