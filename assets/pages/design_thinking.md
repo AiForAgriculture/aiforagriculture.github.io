@@ -1,3 +1,5 @@
+
+
 # What are we doing now?
 
 We are in ***Discovery*** phase of Design Thinking methodology...     
@@ -8,7 +10,7 @@ We are in ***Discovery*** phase of Design Thinking methodology...
 - Design Thinking, on the other hand, is all about dreaming big and imagining what could be, then transforming these dreams into technologically feasible solutions.
 
 
-
+# Detail steps in the Discovery phase?
 1. Define Problem
     - When 
     - What 
@@ -24,7 +26,7 @@ We are in ***Discovery*** phase of Design Thinking methodology...
     - “How Might We” Questions
     - *Affinity Diagrams?
 
-1. Prablem statment with Double Diamond Strategy
+1. Problem statement with Double Diamond Strategy
     -  Discover, Define, Deliver, and Develop    
     - PROBLEM STATEMENT FORMAT
         - [The name of your proto-persona]
@@ -32,15 +34,22 @@ We are in ***Discovery*** phase of Design Thinking methodology...
         - because [insight].
         - We will know this to be true when we see [this quantitative / qualitative measure].
     
-1. Competative Analysis
+1. Competitive Analysis
 
 1. Prototyping
 
 1. Survey 
 
 
-# Refrences
-- [Design Thinking]()
-- [Double Diamond Strategy]()
+# Specific case studies.
+1. [Potato - Image based crops readiness]()
+
+# References
+- [Design Thinking](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
+- [Double Diamond Strategy](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
 - [Affinity Diagrams]()
+- [...a solid problem statement](https://uxplanet.org/designers-indispensable-skill-the-ability-to-write-and-present-a-solid-problem-statement-56a8b4b8060)
+- ["How Might We"](https://www.interaction-design.org/literature/article/define-and-frame-your-design-challenge-by-creating-your-point-of-view-and-ask-how-might-we)
+
+
 
