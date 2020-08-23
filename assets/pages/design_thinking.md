@@ -2,7 +2,7 @@
 
 # What are we doing now?
 
-We are in ***Discovery*** phase of Design Thinking methodology...     
+We are in ***Discovery*** phase of *Design Thinking methodology...     
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/design_thinking_process.jpg)
 
@@ -26,7 +26,7 @@ We are in ***Discovery*** phase of Design Thinking methodology...
     - “How Might We” Questions
     - *Affinity Diagrams?
 
-1. Problem statement with Double Diamond Strategy
+1. Problem statement with *Double Diamond Strategy
     -  Discover, Define, Deliver, and Develop    
     - PROBLEM STATEMENT FORMAT
         - [The name of your proto-persona]
@@ -42,9 +42,9 @@ We are in ***Discovery*** phase of Design Thinking methodology...
 
 
 # Specific case studies.
-1. [Potato - Image based crops readiness](./Potato__Image_based_crops_readiness.md).
+## 1. [Potato - Image based crops readiness](./Potato__Image_based_crops_readiness.md).
 
-# References
+# *References
 - [Design Thinking](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
 - [Double Diamond Strategy](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
 - [Affinity Diagrams]()

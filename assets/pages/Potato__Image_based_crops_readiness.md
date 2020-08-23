@@ -1,18 +1,18 @@
 # Image based crops readiness for Potato farm
 
 1. Asking the right questions
-    1. What
+    - What
         - Potato crop readiness prediction
-    1. Why
+    - Why
         - manual resource heavy process 
         - regular manual monitoring
         - unpredictable weather and raining conditions
         - leads less productive and to heavy losses 
-    1. Who
+    - Who
         - farmer
         - farming firms
         - Agriculture Insurance companies
-    1. How
+    - How
         - AI - Image processing
         - Smartphone based app
         - historic data
@@ -32,3 +32,4 @@
 
 
 # References
+- [Meeting a young German potato farmer](https://agriculture.basf.com/global/en/media/stories-from-the-field/Meeting-a-young-German-potato-farmer.html)
