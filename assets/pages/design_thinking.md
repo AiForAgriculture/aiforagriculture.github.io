@@ -39,3 +39,8 @@ We are in ***Discovery*** phase of Design Thinking methodology...
 1. Survey 
 
 
+# Refrences
+- [Design Thinking]()
+- [Double Diamond Strategy]()
+- [Affinity Diagrams]()
+
