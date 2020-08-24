@@ -28,7 +28,11 @@
     - We need to enable Markus to monitor his potato corps from remote location using his smartphone like device. He even empowered with timely insights and alerts for crop readiness. 
 
 1. Research Based Method (research dataset)
-    - TODO: Create script with 5 questions to ask to datasets 
+    - Question for research script
+        - 1. How potato farming done today; organic / conventional?
+        - 2. How to identify if crop is ready?
+        - 3. How much loses happen due to "false crop readiness"?
+        - 4. Why dose loses happen?     
 
 
 # References
