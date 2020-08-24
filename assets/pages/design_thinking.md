@@ -10,7 +10,7 @@ We are in ***Discovery*** phase of *Design Thinking methodology...
 - Design Thinking, on the other hand, is all about dreaming big and imagining what could be, then transforming these dreams into technologically feasible solutions.
 
 
-# Detail steps in the Discovery phase?
+# Steps in the Discovery phase?
 1. Define Problem
     - When 
     - What 
@@ -41,9 +41,12 @@ We are in ***Discovery*** phase of *Design Thinking methodology...
 1. Survey 
 
 
-# Detail case studies.
+# Detail Case Studies.
 ## 1. [Potato - Image based crops readiness](./Potato__Image_based_crops_readiness.md).
+
 ## 2. [Nanosensors for collecting data](./Nanosensors_for_collecting_data.md).
+
+
 
 #### *References
 - [Design Thinking](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
