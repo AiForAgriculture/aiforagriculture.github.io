@@ -37,3 +37,7 @@
 
 # References
 - [Meeting a young German potato farmer](https://agriculture.basf.com/global/en/media/stories-from-the-field/Meeting-a-young-German-potato-farmer.html)
+- [Federal Association of the Fruit, Vegetable and Potato Processing Industry V. (BOGK)](https://www.bogk.org/)
+- [farming in Germany](http://www.fao.org/3/y1669e/y1669e09.htm)
+- [Potatoes: Plant Care and Collection of Varieties](https://garden.org/plants/group/potatoes/#_search_and_browse)
+- [how-to-grow-potatoes](https://www.goodhousekeeping.com/home/gardening/a20706122/how-to-grow-potatoes/)

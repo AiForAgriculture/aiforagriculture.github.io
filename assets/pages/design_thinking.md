@@ -41,15 +41,32 @@ We are in ***Discovery*** phase of *Design Thinking methodology...
 1. Survey 
 
 
-# Specific case studies.
+# Detail case studies.
 ## 1. [Potato - Image based crops readiness](./Potato__Image_based_crops_readiness.md).
+## 2. [Nano censor for collecting data](./Nano_censor_for_collecting_data.md).
 
-# *References
+#### *References
 - [Design Thinking](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
 - [Double Diamond Strategy](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
 - [Affinity Diagrams]()
 - [...a solid problem statement](https://uxplanet.org/designers-indispensable-skill-the-ability-to-write-and-present-a-solid-problem-statement-56a8b4b8060)
 - ["How Might We"](https://www.interaction-design.org/literature/article/define-and-frame-your-design-challenge-by-creating-your-point-of-view-and-ask-how-might-we)
 
+#### Vocabulary
 
+- Potato - (die) Kartoffel; (der) Erdapfel (mostly in south Germany and Austria)
+
+- Harvest losses - (die) Ernteeinbußen
+
+- Harvest - (die) Ernte 
+
+- Drought - (die) Dürre
+
+- Precipitation - (der) Niederschlag
+
+- Ground water level - (der) Grundwasserpegel
+
+- Fields - (die) Äcker 
+
+- Food processing industry - (die) Lebensmittelverarbeitungsindustrie 
 
