@@ -29,6 +29,12 @@
 
 1. Research Based Method (research dataset)
     - Question for research script
+        - 0.5 Potato farming in Germany, facts.
+            - The most important basic vegetables sold in Germany are: ***Potatoes***, carrots, onions and cabbage.
+            - Harvest yield for 1 hectare of potatoes Average 2016–18 is 42,197 kg  
+            - Organic potato farmer have 50% low yield than in conventional farmers. 
+            - Potato production in 2018 was 10.5 million tons.
+            - It is only with regard to potatoes that production in Germany traditionally exceeds consumption, with part of the harvest being exported, i.e. sold abroad.
         - 1. How potato farming done today; organic / conventional?
         - 2. How to identify if crop is ready?
         - 3. How much loses happen due to "false crop readiness"?

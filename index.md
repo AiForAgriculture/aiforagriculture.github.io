@@ -5,9 +5,9 @@
 
 - Team   
   - Founder CEO: [Vivek Bombatkar](https://www.linkedin.com/in/vivek-bombatkar/)
-  - Product/UX Researcher: <Open Position>
+  - Product/UX Researcher: Hiring Now
 
-- Contact us @ aiforagriculture2020@gmail.com  
+- Contact us @ _aiforagriculture2020@gmail.com_  
 
 - [More Details...](./assets/pages/design_thinking.md).
 
