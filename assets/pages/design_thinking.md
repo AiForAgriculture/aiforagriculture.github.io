@@ -43,7 +43,7 @@ We are in ***Discovery*** phase of *Design Thinking methodology...
 
 # Detail case studies.
 ## 1. [Potato - Image based crops readiness](./Potato__Image_based_crops_readiness.md).
-## 2. [Nano censor for collecting data](./Nano_censor_for_collecting_data.md).
+## 2. [Nano censor for collecting data](./Nanosensors_for_collecting_data.md).
 
 #### *References
 - [Design Thinking](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
