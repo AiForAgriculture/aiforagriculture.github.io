@@ -1,5 +1,7 @@
 # Image based crops readiness for Potato farm
 
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/potato1.jpg)
+
 1. Asking the right questions
     - What
         - Potato crop readiness prediction
@@ -21,7 +23,7 @@
         - ***more productive*** with ***fewer resources and monitoring***          
 
 1. Persona
-    - Proto persona: the farmer - Markus
+    - Proto persona: ***the farmer - Markus***
 
 1. Problem Statement
     - Markus needs a way to automate monitoring of crops readiness. Currently this is very manual process as he needs to visit farm every time.  
@@ -29,16 +31,13 @@
 
 1. Research Based Method (research dataset)
     - Question for research script
-        - 0.5 Potato farming in Germany, facts.
-            - The most important basic vegetables sold in Germany are: ***Potatoes***, carrots, onions and cabbage.
-            - Harvest yield for 1 hectare of potatoes Average 2016–18 is 42,197 kg  
-            - Organic potato farmer have 50% low yield than in conventional farmers. 
-            - Potato production in 2018 was 10.5 million tons.
-            - It is only with regard to potatoes that production in Germany traditionally exceeds consumption, with part of the harvest being exported, i.e. sold abroad.
-        - 1. How potato farming done today; organic / conventional?
-        - 2. How to identify if crop is ready?
-        - 3. How much loses happen due to "false crop readiness"?
-        - 4. Why dose loses happen?     
+        - 1. Potato farming in Germany, facts.
+        - 2. How potato farming done today; organic / conventional?
+        - 3. How to identify if crop is ready?
+        - 4. How much loses happen due to "false crop readiness"?
+        - 5. Why dose loses happen?     
+
+> https://docs.google.com/spreadsheets/d/1jGs4262UO3w5ap20PXUQUEUvcYQCKtcRjfA_2YrRSO8/edit?usp=sharing
 
 
 # References
@@ -47,3 +46,6 @@
 - [farming in Germany](http://www.fao.org/3/y1669e/y1669e09.htm)
 - [Potatoes: Plant Care and Collection of Varieties](https://garden.org/plants/group/potatoes/#_search_and_browse)
 - [how-to-grow-potatoes](https://www.goodhousekeeping.com/home/gardening/a20706122/how-to-grow-potatoes/)
+- [westcoastseeds.com grow-potatoes](https://www.westcoastseeds.com/blogs/how-to-grow/grow-potatoes)
+- [Potato_guide_ORC_Download.pdf](./Potato__Image_based_crops_readiness.md).
+
