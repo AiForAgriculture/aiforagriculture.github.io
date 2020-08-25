@@ -2,7 +2,7 @@
 
 # What are we doing now?
 
-We are in ***Discovery*** phase of *Design Thinking methodology...     
+We are in ***Discovery*** phase of *"Design Thinking" methodology...     
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/design_thinking_process.jpg)
 
@@ -26,7 +26,7 @@ We are in ***Discovery*** phase of *Design Thinking methodology...
     - “How Might We” Questions
     - *Affinity Diagrams?
 
-1. Problem statement with *Double Diamond Strategy
+1. Problem statement with *"Double Diamond Strategy"
     -  Discover, Define, Deliver, and Develop    
     - PROBLEM STATEMENT FORMAT
         - [The name of your proto-persona]
@@ -47,14 +47,6 @@ We are in ***Discovery*** phase of *Design Thinking methodology...
 ## 2. [Nanosensors for collecting data](./Nanosensors_for_collecting_data.md).
 
 
-
-#### *References
-- [Design Thinking](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
-- [Double Diamond Strategy](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
-- [Affinity Diagrams]()
-- [...a solid problem statement](https://uxplanet.org/designers-indispensable-skill-the-ability-to-write-and-present-a-solid-problem-statement-56a8b4b8060)
-- ["How Might We"](https://www.interaction-design.org/literature/article/define-and-frame-your-design-challenge-by-creating-your-point-of-view-and-ask-how-might-we)
-
 #### Vocabulary
 
 - Potato - (die) Kartoffel; (der) Erdapfel (mostly in south Germany and Austria)
@@ -73,3 +65,10 @@ We are in ***Discovery*** phase of *Design Thinking methodology...
 
 - Food processing industry - (die) Lebensmittelverarbeitungsindustrie 
 
+
+#### *References
+- [Design Thinking](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
+- [Double Diamond Strategy](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
+- [Affinity Diagrams]()
+- [...a solid problem statement](https://uxplanet.org/designers-indispensable-skill-the-ability-to-write-and-present-a-solid-problem-statement-56a8b4b8060)
+- ["How Might We"](https://www.interaction-design.org/literature/article/define-and-frame-your-design-challenge-by-creating-your-point-of-view-and-ask-how-might-we)

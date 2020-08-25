@@ -1,4 +1,4 @@
-# Image based crops readiness for Potato farm
+# Image based crops readiness for Potato farm.
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/potato/potato1.jpg)
 
@@ -36,8 +36,9 @@
         - 3. How to identify if crop is ready?
         - 4. How much loses happen due to "false crop readiness"?
         - 5. Why dose loses happen?     
+    - Matrix for research script 
+    > https://docs.google.com/spreadsheets/d/1jGs4262UO3w5ap20PXUQUEUvcYQCKtcRjfA_2YrRSO8/edit?usp=sharing
 
-> https://docs.google.com/spreadsheets/d/1jGs4262UO3w5ap20PXUQUEUvcYQCKtcRjfA_2YrRSO8/edit?usp=sharing
 
 
 - potato_farm_timetable
