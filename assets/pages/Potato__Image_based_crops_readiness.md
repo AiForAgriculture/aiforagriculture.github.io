@@ -1,6 +1,6 @@
 # Image based crops readiness for Potato farm
 
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/potato1.jpg)
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/potato/potato1.jpg)
 
 1. Asking the right questions
     - What
@@ -39,6 +39,15 @@
 
 > https://docs.google.com/spreadsheets/d/1jGs4262UO3w5ap20PXUQUEUvcYQCKtcRjfA_2YrRSO8/edit?usp=sharing
 
+
+- potato_farm_timetable
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/potato/potato_farm_timetable.JPG)
+
+- How-to-Grow-Potatoes-in-a-Grow-Bag
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/potato/How-to-Grow-Potatoes-in-a-Grow-Bag.jpg)
+
+- How-to-Grow-Potatoes-In-the-Ground
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/potato/How-to-Grow-Potatoes-In-the-Ground.jpg)
 
 # References
 - [Meeting a young German potato farmer](https://agriculture.basf.com/global/en/media/stories-from-the-field/Meeting-a-young-German-potato-farmer.html)
