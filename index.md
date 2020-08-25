@@ -1,3 +1,5 @@
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200825_090055.jpg)
+
 - Mission   
   - ***"DEVELOP AI for better agriculture, not only for this planet!"***   
   - Enable farmer to use AI in farming methods so that farms become ***more productive*** with ***fewer resources and monitoring***. 
