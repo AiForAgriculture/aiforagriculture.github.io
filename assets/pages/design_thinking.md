@@ -49,7 +49,7 @@ We are in ***Discovery*** phase of *"Design Thinking" methodology...
 # Detail Case Studies.
 ## 1. [Potato - Image based crops readiness](./Potato__Image_based_crops_readiness.md).
 
-## 2. [Nanosensors for collecting data](./Nanosensors_for_collecting_data.md).
+## 2. [Nanosensors for collecting data](./Nanosensors _for_collecting_data.md).
 
 
 #### Vocabulary

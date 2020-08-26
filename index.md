@@ -3,7 +3,7 @@
 - Mission   
   - ***"DEVELOP AI for better agriculture, not only for this planet!"***   
   - Enable farmer to use AI in farming methods so that farms become ***more productive*** with ***fewer resources and monitoring***. 
-  - For interplanetary spices like us, this knowledge is not not only USEFUL on this planet but on NEXT planets too!
+  - For interplanetary spices like us, this knowledge is not only USEFUL on this planet but on NEXT planets too!
 
 
 - [Further Details...](./assets/pages/design_thinking.md).
