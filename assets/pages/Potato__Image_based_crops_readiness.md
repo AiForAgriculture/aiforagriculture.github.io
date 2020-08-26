@@ -32,10 +32,10 @@
 1. Research Based Method (research dataset)
     - Question for research script
         1. Potato farming in Germany, facts.
-        1. How potato farming done today; organic / conventional?
-        1. How to identify if crop is ready?
-        1. How much loses happen due to "false crop readiness"?
-        1. Why dose loses happen?     
+        2. How potato farming done today; organic / conventional?
+        3. How to identify if crop is ready?
+        4. How much loses happen due to "false crop readiness"?
+        5. Why dose loses happen?     
     - Matrix for research script 
     > https://docs.google.com/spreadsheets/d/1jGs4262UO3w5ap20PXUQUEUvcYQCKtcRjfA_2YrRSO8/edit?usp=sharing
 
