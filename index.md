@@ -6,9 +6,11 @@
   - For interplanetary spices like us, this knowledge is not only USEFUL on this planet but on NEXT planets too!
 
 
-- [Further Details...](./assets/pages/design_thinking.md).
+- [Further Details..](./assets/pages/design_thinking.md).
 
 - Follow us on [YouTube](https://www.youtube.com/playlist?list=PLajIi55-KLYcZlos3vRQ9Omi4RynH780h)
+
+- [Image Gallery]()
 
 - Team   
   - Founder CEO: [Vivek Bombatkar](https://www.linkedin.com/in/vivek-bombatkar/)
