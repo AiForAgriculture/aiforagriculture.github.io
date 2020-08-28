@@ -68,10 +68,12 @@ We are in ***Discovery*** phase of *"Design Thinking" methodology...
 
 
 #### *References
-- [Docs collection](https://github.com/AiForAgriculture/aiforagriculture.github.io/tree/master/assets/papers)
+- [Docs Collection](https://github.com/AiForAgriculture/aiforagriculture.github.io/tree/master/assets/papers)
 - [Design Thinking](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
 - [Double Diamond Strategy](https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years)
 - [Affinity Diagrams]()
 - [...a solid problem statement](https://uxplanet.org/designers-indispensable-skill-the-ability-to-write-and-present-a-solid-problem-statement-56a8b4b8060)
 - ["How Might We"](https://www.interaction-design.org/literature/article/define-and-frame-your-design-challenge-by-creating-your-point-of-view-and-ask-how-might-we)
 - [design process](http://www.dubberly.com/wp-content/uploads/2008/06/ddo_designprocess.pdf)
+- [Intel-Powered AI Helps Optimize Crop Yields](https://www.intel.com/content/www/us/en/big-data/article/agriculture-harvests-big-data.html)
+- [Bosch AI helped a Japanese tomato grower increase his farm’s yield](https://www.bosch.com/stories/greenhouse-guardian-ai-in-agriculture/)
