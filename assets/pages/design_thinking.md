@@ -43,7 +43,9 @@ We are in ***Discovery*** phase of *"Design Thinking" methodology...
 # Detail Case Studies.
 ## 1. [Potato - Image based crops readiness](./Potato__Image_based_crops_readiness.md).
 
-## 2. [Nanosensors for collecting data](./Nanosensors _for_collecting_data.md).
+## 2. [Nanosensors for collecting farm field  data](./Nanosensors _for_collecting_data.md).
+
+## 3. [AI in Agriculture - General Competitive Analysis](https://docs.google.com/spreadsheets/d/1oDXuCQHsDelYdfvqq5uJ_4c6Qh6Ou-tJ7LWrZ1Lreac/edit?usp=sharing)
 
 
 #### Vocabulary
@@ -66,6 +68,7 @@ We are in ***Discovery*** phase of *"Design Thinking" methodology...
 
 
 #### *References
+- [Docs collection](https://github.com/AiForAgriculture/aiforagriculture.github.io/tree/master/assets/papers)
 - [Design Thinking](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
 - [Double Diamond Strategy](https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years)
 - [Affinity Diagrams]()
