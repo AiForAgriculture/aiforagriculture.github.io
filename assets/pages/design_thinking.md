@@ -12,12 +12,6 @@ We are in ***Discovery*** phase of *"Design Thinking" methodology...
 
 # Steps in the Discovery phase?
 1. Define Problem
-    - When 
-    - What 
-    - Who
-    - Where 
-    - How 
-    - Why
     - What problem are we trying to solve?
     - How do we know this is a real problem?
     - Why is it important to solve?
