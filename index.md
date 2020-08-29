@@ -1,4 +1,3 @@
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200825_090055.jpg)
 
 - Mission   
   - ***"DEVELOP AI for better agriculture, not only for this planet!"***   
@@ -6,7 +5,7 @@
   - For interplanetary spices like us, this knowledge is not only USEFUL on this planet but on NEXT planets too!
 
 
-- [Further Details..](./assets/pages/design_thinking.md).
+- [Further Details..](./design_thinking.md).
 
 - Follow us on [YouTube](https://www.youtube.com/playlist?list=PLajIi55-KLYcZlos3vRQ9Omi4RynH780h)
 
