@@ -1,4 +1,4 @@
-# Image based crops readiness for Potato farm.
+### Image based crops readiness for Potato farm.
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/potato/potato1.jpg)
 
@@ -50,7 +50,7 @@
 - How-to-Grow-Potatoes-In-the-Ground
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/potato/How-to-Grow-Potatoes-In-the-Ground.jpg)
 
-# References
+### References
 - [Meeting a young German potato farmer](https://agriculture.basf.com/global/en/media/stories-from-the-field/Meeting-a-young-German-potato-farmer.html)
 - [Federal Association of the Fruit, Vegetable and Potato Processing Industry V. (BOGK)](https://www.bogk.org/)
 - [farming in Germany](http://www.fao.org/3/y1669e/y1669e09.htm)
