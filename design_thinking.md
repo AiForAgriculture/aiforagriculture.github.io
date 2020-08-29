@@ -121,6 +121,7 @@ We are in ***Discovery*** phase of *"Design Thinking" methodology...
 
 
 
+
 - potato_farm_timetable
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/potato/potato_farm_timetable.JPG)
 
