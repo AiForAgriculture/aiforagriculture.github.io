@@ -16,5 +16,3 @@
   - Product/UX Researcher: Hiring Now
 
 - Contact us @ _aiforagriculture2020@gmail.com_  
-
-
