@@ -63,7 +63,7 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 <a name="References"></a>
 ### References
 - [Docs Collection](https://github.com/AiForAgriculture/aiforagriculture.github.io/tree/master/assets/papers)
-- [Design Thinking](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
+- [Design Thinking](https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/)
 - [Double Diamond Strategy](https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years)
 - [Affinity Diagrams]()
 - [...a solid problem statement](https://uxplanet.org/designers-indispensable-skill-the-ability-to-write-and-present-a-solid-problem-statement-56a8b4b8060)
