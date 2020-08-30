@@ -6,7 +6,6 @@
 - [What are we doing now? Design Thinking](#one)
     - [Steps in the Discovery phase](#Discovery_phase)
     - [We follow Double Diamond Strategy](#Double_Diamond)
-    - [Vocabulary](#Vocabulary)
     - [References](#References)
 - [Detail Case Studies](#two)
     - [Image based crops readiness for Potato farm](#Potato_farm)
@@ -58,26 +57,6 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Double_Diamond.JPG)
 
-----
-
-<a name="Vocabulary"></a>
-### Vocabulary
-
-- Potato - (die) Kartoffel; (der) Erdapfel (mostly in south Germany and Austria)
-
-- Harvest losses - (die) Ernteeinbußen
-
-- Harvest - (die) Ernte 
-
-- Drought - (die) Dürre
-
-- Precipitation - (der) Niederschlag
-
-- Ground water level - (der) Grundwasserpegel
-
-- Fields - (die) Äcker 
-
-- Food processing industry - (die) Lebensmittelverarbeitungsindustrie 
 
 ----
 
@@ -151,6 +130,29 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 
 - How-to-Grow-Potatoes-In-the-Ground
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/potato/How-to-Grow-Potatoes-In-the-Ground.jpg)
+
+----
+
+### Vocabulary
+
+- Potato - (die) Kartoffel; (der) Erdapfel (mostly in south Germany and Austria)
+
+- Harvest losses - (die) Ernteeinbußen
+
+- Harvest - (die) Ernte 
+
+- Drought - (die) Dürre
+
+- Precipitation - (der) Niederschlag
+
+- Ground water level - (der) Grundwasserpegel
+
+- Fields - (die) Äcker 
+
+- Food processing industry - (die) Lebensmittelverarbeitungsindustrie 
+
+
+----
 
 ### References
 - [Meeting a young German potato farmer](https://agriculture.basf.com/global/en/media/stories-from-the-field/Meeting-a-young-German-potato-farmer.html)
