@@ -17,7 +17,7 @@
 <a name="one"></a>
 # What are we doing now?
 
-We are in ***Discovery*** phase of *"Design Thinking" methodology...     
+We are in ***Discovery*** phase of ***Design Thinking philosophy***.     
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/design_thinking_process.jpg)
 
@@ -37,7 +37,7 @@ We are in ***Discovery*** phase of *"Design Thinking" methodology...
     - “How Might We” Questions
     - *Affinity Diagrams?
 
-1. Problem statement with *"Double Diamond Strategy"
+1. Problem statement with Double Diamond Strategy
     -  Discover, Define, Deliver, and Develop    
     - PROBLEM STATEMENT FORMAT
         - [The name of your proto-persona]
@@ -82,7 +82,7 @@ We are in ***Discovery*** phase of *"Design Thinking" methodology...
 ----
 
 <a name="References"></a>
-### *References
+### References
 - [Docs Collection](https://github.com/AiForAgriculture/aiforagriculture.github.io/tree/master/assets/papers)
 - [Design Thinking](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
 - [Double Diamond Strategy](https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years)
