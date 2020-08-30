@@ -3,6 +3,18 @@
 
 
 
+- [What are we doing now? Design Thinking](#one)
+    - [Steps in the Discovery phase](#Discovery_phase)
+    - [We follow Double Diamond Strategy](#Double_Diamond)
+    - [Vocabulary](#Vocabulary)
+    - [References](#References)
+- [Detail Case Studies](#two)
+    - [Image based crops readiness for Potato farm](#Potato_farm)
+    - [Nanosensors for collecting data](#Nanosensors)
+    - [AI in Agriculture - General Competitive Analysis](#Competitive_Analysis)
+
+
+<a name="one"></a>
 # What are we doing now?
 
 We are in ***Discovery*** phase of *"Design Thinking" methodology...     
@@ -14,7 +26,8 @@ We are in ***Discovery*** phase of *"Design Thinking" methodology...
 
 ----
 
-# Steps in the Discovery phase?
+<a name="Discovery_phase"></a>
+### Steps in the Discovery phase?
 1. Define Problem
     - What problem are we trying to solve?
     - How do we know this is a real problem?
@@ -40,11 +53,14 @@ We are in ***Discovery*** phase of *"Design Thinking" methodology...
 
 ----
 
-# We follow Double Diamond Strategy.
+<a name="Double_Diamond"></a>
+### We follow Double Diamond Strategy.
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Double_Diamond.JPG)
 
+----
 
+<a name="Vocabulary"></a>
 ### Vocabulary
 
 - Potato - (die) Kartoffel; (der) Erdapfel (mostly in south Germany and Austria)
@@ -63,7 +79,9 @@ We are in ***Discovery*** phase of *"Design Thinking" methodology...
 
 - Food processing industry - (die) Lebensmittelverarbeitungsindustrie 
 
+----
 
+<a name="References"></a>
 ### *References
 - [Docs Collection](https://github.com/AiForAgriculture/aiforagriculture.github.io/tree/master/assets/papers)
 - [Design Thinking](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
@@ -77,7 +95,10 @@ We are in ***Discovery*** phase of *"Design Thinking" methodology...
 
 ----
 
+<a name="Case_Studies"></a>
 # Detail Case Studies.
+
+<a name="Potato_farm"></a>
 ### 1. Image based crops readiness for Potato farm.
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/potato/potato1.jpg)
@@ -142,12 +163,14 @@ We are in ***Discovery*** phase of *"Design Thinking" methodology...
 
 ----
 
+<a name="Nanosensors"></a>
 ### 2. Nanosensors for collecting data
 
 Usage of Nanosensors for collecting farm field data.
 
 ----
-
-### 3. [AI in Agriculture - General Competitive Analysis](https://docs.google.com/spreadsheets/d/1oDXuCQHsDelYdfvqq5uJ_4c6Qh6Ou-tJ7LWrZ1Lreac/edit?usp=sharing)
+<a name="Competitive_Analysis"></a>
+### 3. AI in Agriculture - General Competitive Analysis
+ [Competitive Analysis in Google spreadsheets](https://docs.google.com/spreadsheets/d/1oDXuCQHsDelYdfvqq5uJ_4c6Qh6Ou-tJ7LWrZ1Lreac/edit?usp=sharing)
 
 
