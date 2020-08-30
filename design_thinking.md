@@ -1,5 +1,5 @@
 
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200825_090055.jpg)
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200819_170408.jpg)
 
 
 
@@ -167,12 +167,15 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 
 <a name="Nanosensors"></a>
 ### 2. Nanosensors for collecting data
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200819_170754.jpg)
 
 Usage of Nanosensors for collecting farm field data.
 
 ----
 <a name="Competitive_Analysis"></a>
 ### 3. AI in Agriculture - General Competitive Analysis
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200825_090055.jpg)
+
  [Competitive Analysis in Google spreadsheets](https://docs.google.com/spreadsheets/d/1oDXuCQHsDelYdfvqq5uJ_4c6Qh6Ou-tJ7LWrZ1Lreac/edit?usp=sharing)
 
 
