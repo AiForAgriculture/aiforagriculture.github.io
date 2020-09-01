@@ -167,13 +167,16 @@ Usage of Nanosensors for collecting farm field data.
 ----
 
 <a name="Story_Telling"></a>
+
  # Story Telling using Agriculture data
 
 
 ----
 
 <a name="Further_Reading"></a>
+
 # Further Reading
+
 - [Docs Collection](https://github.com/AiForAgriculture/aiforagriculture.github.io/tree/master/assets/papers)
 - [Design Thinking](https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/)
 - [Double Diamond Strategy](https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years)
