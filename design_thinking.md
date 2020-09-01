@@ -4,14 +4,14 @@
 
 
 - [What are we doing now? "Design Thinking"](#one)
-    - [Steps in the Discovery phase](#Discovery_phase)
     - [We follow Double Diamond Strategy](#Double_Diamond)
-    - [References](#References)
+    - [Steps in the Discovery phase](#Discovery_phase)
 - [Detail Case Studies](#two)
     - [Image based crops readiness for Potato farm](#Potato_farm)
     - [Nanosensors for collecting data](#Nanosensors)
     - [AI in Agriculture - General Competitive Analysis](#Competitive_Analysis)
-- [Story Telling using Agriculture data]()
+- [Story Telling using Agriculture data](#Story_Telling)
+- [Further Reading](#Further_Reading)
 
 <a name="one"></a>
 # What are we doing now?
@@ -22,6 +22,13 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 
 - Design Thinking is a solution-focused discipline that aims to match a customer’s needs with well-designed, technologically feasible solutions.
 - Design Thinking, on the other hand, is all about dreaming big and imagining what could be, then transforming these dreams into technologically feasible solutions.
+
+----
+
+<a name="Double_Diamond"></a>
+### We follow Double Diamond Strategy.
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Double_Diamond.JPG)
 
 ----
 
@@ -50,27 +57,6 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 
 1. Survey 
 
-----
-
-<a name="Double_Diamond"></a>
-### We follow Double Diamond Strategy.
-
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Double_Diamond.JPG)
-
-
-----
-
-<a name="References"></a>
-### References
-- [Docs Collection](https://github.com/AiForAgriculture/aiforagriculture.github.io/tree/master/assets/papers)
-- [Design Thinking](https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/)
-- [Double Diamond Strategy](https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years)
-- [Affinity Diagrams]()
-- [...a solid problem statement](https://uxplanet.org/designers-indispensable-skill-the-ability-to-write-and-present-a-solid-problem-statement-56a8b4b8060)
-- ["How Might We"](https://www.interaction-design.org/literature/article/define-and-frame-your-design-challenge-by-creating-your-point-of-view-and-ask-how-might-we)
-- [design process](http://www.dubberly.com/wp-content/uploads/2008/06/ddo_designprocess.pdf)
-- [Intel-Powered AI Helps Optimize Crop Yields](https://www.intel.com/content/www/us/en/big-data/article/agriculture-harvests-big-data.html)
-- [Bosch AI helped a Japanese tomato grower increase his farm’s yield](https://www.bosch.com/stories/greenhouse-guardian-ai-in-agriculture/)
 
 ----
 
@@ -178,4 +164,23 @@ Usage of Nanosensors for collecting farm field data.
 
  [Competitive Analysis in Google spreadsheets](https://docs.google.com/spreadsheets/d/1oDXuCQHsDelYdfvqq5uJ_4c6Qh6Ou-tJ7LWrZ1Lreac/edit?usp=sharing)
 
+----
+
+<a name="Story_Telling"></a>
+ # Story Telling using Agriculture data
+
+
+----
+
+<a name="Further_Reading"></a>
+# Further Reading
+- [Docs Collection](https://github.com/AiForAgriculture/aiforagriculture.github.io/tree/master/assets/papers)
+- [Design Thinking](https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/)
+- [Double Diamond Strategy](https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years)
+- [Affinity Diagrams]()
+- [...a solid problem statement](https://uxplanet.org/designers-indispensable-skill-the-ability-to-write-and-present-a-solid-problem-statement-56a8b4b8060)
+- ["How Might We"](https://www.interaction-design.org/literature/article/define-and-frame-your-design-challenge-by-creating-your-point-of-view-and-ask-how-might-we)
+- [design process](http://www.dubberly.com/wp-content/uploads/2008/06/ddo_designprocess.pdf)
+- [Intel-Powered AI Helps Optimize Crop Yields](https://www.intel.com/content/www/us/en/big-data/article/agriculture-harvests-big-data.html)
+- [Bosch AI helped a Japanese tomato grower increase his farm’s yield](https://www.bosch.com/stories/greenhouse-guardian-ai-in-agriculture/)
 
