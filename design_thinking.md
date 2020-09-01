@@ -3,7 +3,7 @@
 
 
 
-- [What are we doing now? Design Thinking](#one)
+- [What are we doing now? "Design Thinking"](#one)
     - [Steps in the Discovery phase](#Discovery_phase)
     - [We follow Double Diamond Strategy](#Double_Diamond)
     - [References](#References)
@@ -11,7 +11,7 @@
     - [Image based crops readiness for Potato farm](#Potato_farm)
     - [Nanosensors for collecting data](#Nanosensors)
     - [AI in Agriculture - General Competitive Analysis](#Competitive_Analysis)
-
+- [Story Telling using Agriculture data]()
 
 <a name="one"></a>
 # What are we doing now?
