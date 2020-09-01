@@ -23,14 +23,14 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 - Design Thinking is a solution-focused discipline that aims to match a customer’s needs with well-designed, technologically feasible solutions.
 - Design Thinking, on the other hand, is all about dreaming big and imagining what could be, then transforming these dreams into technologically feasible solutions.
 
-----
+
 
 <a name="Double_Diamond"></a>
 ### We follow Double Diamond Strategy.
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Double_Diamond.JPG)
 
-----
+
 
 <a name="Discovery_phase"></a>
 ### Steps in the Discovery phase?
@@ -117,7 +117,6 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 - How-to-Grow-Potatoes-In-the-Ground
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/potato/How-to-Grow-Potatoes-In-the-Ground.jpg)
 
-----
 
 ### Vocabulary
 
@@ -138,7 +137,6 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 - Food processing industry - (die) Lebensmittelverarbeitungsindustrie 
 
 
-----
 
 ### References
 - [Meeting a young German potato farmer](https://agriculture.basf.com/global/en/media/stories-from-the-field/Meeting-a-young-German-potato-farmer.html)
@@ -162,7 +160,7 @@ Usage of Nanosensors for collecting farm field data.
 ### 3. AI in Agriculture - General Competitive Analysis
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200825_090055.jpg)
 
- [Competitive Analysis in Google spreadsheets](https://docs.google.com/spreadsheets/d/1oDXuCQHsDelYdfvqq5uJ_4c6Qh6Ou-tJ7LWrZ1Lreac/edit?usp=sharing)
+ > [Competitive Analysis in Google spreadsheets](https://docs.google.com/spreadsheets/d/1oDXuCQHsDelYdfvqq5uJ_4c6Qh6Ou-tJ7LWrZ1Lreac/edit?usp=sharing)
 
 ----
 
