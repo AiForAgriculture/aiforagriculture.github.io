@@ -90,6 +90,7 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 
 1. Persona
     - Proto persona: ***the farmer - Markus***
+    - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/persona.jpg)
 
 1. Problem Statement
     - Markus needs a way to automate monitoring of crops readiness. Currently this is very manual process as he needs to visit farm every time.  
