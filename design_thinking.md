@@ -29,7 +29,7 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 ### We follow Double Diamond Strategy.
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Double_Diamond.JPG)
-
+[Image Source](https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years)
 
 
 <a name="Discovery_phase"></a>
