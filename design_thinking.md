@@ -9,7 +9,7 @@
 - [Detail Case Studies](#two)
     - [Image based crops readiness for Potato farm](#Potato_farm)
     - [Nanosensors for collecting data](#Nanosensors)
-    - [AI in Agriculture - General Competitive Analysis](#Competitive_Analysis)
+- [General Competitive Analysis](#Competitive_Analysis)
 - [Story Telling using Agriculture data](#Story_Telling)
 - [Further Reading](#Further_Reading)
 
@@ -159,8 +159,9 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 Usage of Nanosensors for collecting farm field data.
 
 ----
+
 <a name="Competitive_Analysis"></a>
-### 3. General Competitive Analysis
+# General Competitive Analysis
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200825_090055.jpg)
 
  > [Competitive Analysis in Google spreadsheets](https://docs.google.com/spreadsheets/d/1oDXuCQHsDelYdfvqq5uJ_4c6Qh6Ou-tJ7LWrZ1Lreac/edit?usp=sharing)
