@@ -2,7 +2,7 @@
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200819_170408.jpg)
 
 
-
+---
 - [What are we doing now? "Design Thinking"](#one)
     - [We follow Double Diamond Strategy](#Double_Diamond)
     - [Steps in the Discovery phase](#Discovery_phase)
@@ -12,6 +12,8 @@
 - [General Competitive Analysis](#Competitive_Analysis)
 - [Story Telling using Agriculture data](#Story_Telling)
 - [Further Reading](#Further_Reading)
+---
+
 
 <a name="one"></a>
 # What are we doing now?
