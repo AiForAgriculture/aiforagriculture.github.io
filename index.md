@@ -14,7 +14,7 @@
 - [Image Gallery](https://photos.app.goo.gl/nNboanZLULY4cgph7)
 
 - Team   
-  - Founder CEO: [Vivek Bombatkar](https://www.linkedin.com/in/vivek-bombatkar/)
+  - Founder CEO: [Vivek Bombatkar](https://www.linkedin.com/today/author/vivek-bombatkar)
   - Product/UX Researcher: Hiring Now
 
 - Contact us @ _aiforagriculture2020@gmail.com_  
