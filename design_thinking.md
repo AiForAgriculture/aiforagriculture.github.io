@@ -3,6 +3,7 @@
 
 
 ---
+
 - [What are we doing now? "Design Thinking"](#one)
     - [We follow Double Diamond Strategy](#Double_Diamond)
     - [Steps in the Discovery phase](#Discovery_phase)
@@ -12,6 +13,7 @@
 - [General Competitive Analysis](#Competitive_Analysis)
 - [Story Telling using Agriculture data](#Story_Telling)
 - [Further Reading](#Further_Reading)
+
 ---
 
 
