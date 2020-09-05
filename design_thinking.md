@@ -199,7 +199,7 @@ List of organizations that we studied. These firms used AI in way or other to im
 
 # Further Reading
 
-- [Docs Collection](https://github.com/AiForAgriculture/aiforagriculture.github.io/tree/master/assets/papers)
+- ["Papers From our Collection"](https://github.com/AiForAgriculture/aiforagriculture.github.io/tree/master/assets/papers)
 - [Design Thinking](https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/)
 - [Double Diamond Strategy](https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years)
 - [Affinity Diagrams]()
