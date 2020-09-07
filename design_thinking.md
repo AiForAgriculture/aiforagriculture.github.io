@@ -10,7 +10,8 @@
 - [Detail Case Studies](#two)
     - [Image based crops readiness for Potato farm](#Potato_farm)
     - [Nanosensors for collecting data](#Nanosensors)
-- [AI in Agriculture - General Competitive Analysis](#Competitive_Analysis)
+- [AI in Agriculture - General Competitive Analysis](#Competitive_Analysis)   
+
 - [Farming Facts of Germany](#Farming-Facts-of-Germany)   
 
 - [Story Telling using Agriculture data](#Story_Telling)   
