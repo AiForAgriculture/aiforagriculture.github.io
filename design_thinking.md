@@ -11,6 +11,7 @@
     - [Image based crops readiness for Potato farm](#Potato_farm)
     - [Nanosensors for collecting data](#Nanosensors)
 - [AI in Agriculture - General Competitive Analysis](#Competitive_Analysis)
+- [Farming Facts of Germany](#Farming-Facts-of-Germany)
 - [Story Telling using Agriculture data](#Story_Telling)
 - [Further Reading](#Further_Reading)
 
@@ -195,7 +196,7 @@ List of organizations that we studied. These firms used AI in way or other to im
 
 
 ----
-<a name="Story_Telling"></a>
+<a name="Farming-Facts-of-Germany"></a>
 # Farming Facts of Germany
 
 
@@ -294,6 +295,7 @@ List of organizations that we studied. These firms used AI in way or other to im
 
 # Story Telling using Agriculture data
 
+In Progress 
 
 ----
 
