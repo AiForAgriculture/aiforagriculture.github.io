@@ -4,6 +4,8 @@
 
 ---
 
+# Contents
+
 - [What are we doing now? "Design Thinking"](#one)
     - [We follow Double Diamond Strategy](#Double_Diamond)
     - [Steps in the Discovery phase](#Discovery_phase)
