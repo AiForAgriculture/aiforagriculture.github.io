@@ -186,14 +186,14 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 |                                                                                       | Air Humidity,                                                                                                                                                                                                                                                                                                                                   |
 |                                                                                       | Wind Speed,                                                                                                                                                                                                                                                                                                                                     |
 
-- Usage of Nanosensors for collecting farm field data.
+- Usage of Nano-sensors for collecting farm field data.
 
 In progress...
 
 ----
 
 <a name="Competitive_Analysis"></a>
-# AI in Agriculture - General Competitive Analysis
+# General Competitive Analysis
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200825_090055.jpg)
 
 - ***Competitive Analysis using Business Model Canvas***
