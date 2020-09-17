@@ -196,9 +196,15 @@ In progress...
 # General Competitive Analysis
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200825_090055.jpg)
 
+
 - ***Competitive Analysis using Business Model Canvas***
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/business_model.JPG)
+
+
+- plantix.net
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/plantix_net.jpg)
+
 
 
  - ***Competitive List***   
