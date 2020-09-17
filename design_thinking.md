@@ -207,12 +207,10 @@ In progress...
 
 
 
+
  - ***Competitive List***   
-  
- > [Competitive Analysis in Google spreadsheets](https://docs.google.com/spreadsheets/d/1oDXuCQHsDelYdfvqq5uJ_4c6Qh6Ou-tJ7LWrZ1Lreac/edit?usp=sharing)
 
-
-List of organizations that we studied. These firms used AI in way or other to improve Agriculture.    
+List of organizations that we studied. These firms used AI in one way or other to improve Agriculture.    
 
 | #  | Who                                                                                                                  | Keywords / Core business / Uniqueness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | -- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
