@@ -197,24 +197,24 @@ In progress...
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200825_090055.jpg)
 
 
-- ***Competitive Analysis using Business Model Canvas***
+- ***Competitive Analysis using "Business Model" Canvas***
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/business_model.JPG)
 
 
-- plantix.net
+- plantix
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/plantix_net.jpg)
 
-- avalow.com
+- avalow
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/avalow_com.jpg)
 
 - InFarm
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/InFarm.jpg)
 
-- taranis.ag
+- taranis
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/taranis_ag.jpg)
 
-- traptic.com
+- traptic
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/traptic_com.jpg)
 
 
@@ -345,4 +345,5 @@ In Progress
 - [design process](http://www.dubberly.com/wp-content/uploads/2008/06/ddo_designprocess.pdf)
 - [Intel-Powered AI Helps Optimize Crop Yields](https://www.intel.com/content/www/us/en/big-data/article/agriculture-harvests-big-data.html)
 - [Bosch AI helped a Japanese tomato grower increase his farm’s yield](https://www.bosch.com/stories/greenhouse-guardian-ai-in-agriculture/)
+- [Business model canvas](https://digitaleneuordnung.de/blog/business-model-canvas-erklaerung/)
 
