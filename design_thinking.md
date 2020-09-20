@@ -205,6 +205,18 @@ In progress...
 - plantix.net
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/plantix_net.jpg)
 
+- avalow.com
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/avalow_com.jpg)
+
+- InFarm
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/InFarm.jpg)
+
+- taranis.ag
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/taranis_ag.jpg)
+
+- traptic.com
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/traptic_com.jpg)
+
 
 
 
