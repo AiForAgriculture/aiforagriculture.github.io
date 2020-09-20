@@ -166,7 +166,7 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 ### 2. Sensors for collecting data
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200819_170754.jpg)
 
-- Sensors for collecting farm field data.
+- ***Sensors for collecting farm field data.***
 
 | #                                                                                     | Facts                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -186,7 +186,7 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 |                                                                                       | Air Humidity,                                                                                                                                                                                                                                                                                                                                   |
 |                                                                                       | Wind Speed,                                                                                                                                                                                                                                                                                                                                     |
 
-- Usage of Nano-sensors for collecting farm field data.
+- ***Usage of Nano-sensors for collecting farm field data.***
 
 In progress...
 
@@ -196,6 +196,9 @@ In progress...
 # General Competitive Analysis
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200825_090055.jpg)
 
+
+
+List of organizations that we studied. These firms used AI in one way or other to improve Agriculture.    
 
 - ***Competitive Analysis using "Business Model" Canvas***
 
@@ -221,8 +224,6 @@ In progress...
 
 
  - ***Competitive List***   
-
-List of organizations that we studied. These firms used AI in one way or other to improve Agriculture.    
 
 | #  | Who                                                                                                                  | Keywords / Core business / Uniqueness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | -- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
