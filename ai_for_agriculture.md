@@ -13,6 +13,8 @@
     - [Image based crops readiness for Potato farm](#Potato_farm)
     - [Sensors for collecting data](#Sensors)
 - [AI in Agriculture - General Competitive Analysis](#Competitive_Analysis)   
+    - [Competitive Analysis using “Business Model” Canvas](#Business_Model_Canvas)
+    - [Competitive List](#Competitive_List)   
 
 - [Farming Facts of Germany](#Farming-Facts-of-Germany)   
 
@@ -200,6 +202,7 @@ In progress...
 
 List of organizations that we studied. These firms used AI in one way or other to improve Agriculture.    
 
+<a name="Business_Model_Canvas"></a>
 - ***Competitive Analysis using "Business Model" Canvas***
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/business_model.JPG)
@@ -222,7 +225,7 @@ List of organizations that we studied. These firms used AI in one way or other t
 
 
 
-
+<a name="Competitive_List"></a>
  - ***Competitive List***   
 
 | #  | Who                                                                                                                  | Keywords / Core business / Uniqueness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
