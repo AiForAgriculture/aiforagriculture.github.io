@@ -251,6 +251,9 @@ List of organizations that we studied. These firms used AI in one way or other t
 <a name="Farming-Facts-of-Germany"></a>
 # Farming Facts of Germany
 
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200926_105447.jpg)
+
+
 
 | #                                                                                     | Facts                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -331,6 +334,9 @@ List of organizations that we studied. These firms used AI in one way or other t
 <a name="Story_Telling"></a>
 
 # Story Telling using Agriculture data
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200926_105497.jpg)
+
 
 In Progress 
 
