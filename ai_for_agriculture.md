@@ -7,7 +7,6 @@
 # Contents
 
 - [What are we doing now? "Design Thinking"](#one)
-    - [We follow Double Diamond Strategy](#Double_Diamond)
     - [Steps in the Discovery phase](#Discovery_phase)
 - [Detail Case Studies](#two)
     - [Image based crops readiness for Potato farm](#Potato_farm)
@@ -34,14 +33,8 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 
 - Design Thinking is a solution-focused discipline that aims to match a customer’s needs with well-designed, technologically feasible solutions.
 - Design Thinking, on the other hand, is all about dreaming big and imagining what could be, then transforming these dreams into technologically feasible solutions.
+- We are following "Double Diamond" Strategy.
 
-
-
-<a name="Double_Diamond"></a>
-### We follow Double Diamond Strategy.
-
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Double_Diamond.JPG)
-[Image Source](https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years)
 
 
 <a name="Discovery_phase"></a>
@@ -73,7 +66,7 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 ----
 
 <a name="Case_Studies"></a>
-# Detail Case Studies.
+# Case Studies.
 
 <a name="Potato_farm"></a>
 ### 1. Image based crops readiness for Potato farm.
@@ -335,7 +328,7 @@ List of organizations that we studied. These firms used AI in one way or other t
 
 # Story Telling using Agriculture data
 
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200926_105497.jpg)
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200926_105497.JPG)
 
 
 In Progress 
@@ -345,6 +338,9 @@ In Progress
 <a name="Further_Reading"></a>
 
 # Further Reading
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200826_095444.jpg)
+
 
 - ["Reference Papers"](https://github.com/AiForAgriculture/aiforagriculture.github.io/tree/master/assets/papers)
 - [Design Thinking](https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/)
