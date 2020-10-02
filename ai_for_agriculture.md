@@ -49,9 +49,6 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
     - How will we know if we’ve solved the problem?
     - “How Might We” Questions
     - *Affinity Diagrams?
-
-1. Problem statement with Double Diamond Strategy
-    -  Discover, Define, Deliver, and Develop    
     - PROBLEM STATEMENT FORMAT
         - [The name of your proto-persona]
         - needs a way to [user’s need]
@@ -193,6 +190,26 @@ In progress...
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200902_174246.jpg)
 
 
+1. Define Problem
+    - What problem are we trying to solve?
+    - How do we know this is a real problem?
+    - Why is it important to solve?
+    - Who are our users? What are their goals and motivations?
+    - How will we know if we’ve solved the problem?
+    - “How Might We” Questions
+    - *Affinity Diagrams?
+    - PROBLEM STATEMENT FORMAT
+        - [The name of your proto-persona]
+        - needs a way to [user’s need]
+        - because [insight].
+        - We will know this to be true when we see [this quantitative / qualitative measure].
+    
+1. Competitive Analysis
+
+1. Prototyping
+
+1. Survey 
+    - User interview Script
 
 
 ----
