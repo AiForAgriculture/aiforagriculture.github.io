@@ -8,10 +8,12 @@
 
 - [What are we doing now? "Design Thinking"](#one)
     - [Steps in the Discovery phase](#Discovery_phase)
-- [Detail Case Studies](#two)
-    - [Image based crops readiness for Potato farm](#Potato_farm)
-    - [Sensors for collecting data](#Sensors)
-- [AI in Agriculture - General Competitive Analysis](#Competitive_Analysis)   
+- [Case Studies](#two)
+    - [1. Image based crops readiness for Potato farm](#Potato_farm)
+    - [2. Sensors for collecting data](#Sensors)
+    - [3. Greenhouse for Organic farming](#Greenhouse_Organic_farming)
+
+- [General Competitive Analysis](#Competitive_Analysis)   
     - [Competitive Analysis using “Business Model” Canvas](#Business_Model_Canvas)
     - [Competitive List](#Competitive_List)   
 
@@ -184,6 +186,14 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 - ***Usage of Nano-sensors for collecting farm field data.***
 
 In progress...
+
+----
+<a name="Greenhouse_Organic_farming"></a>
+### 3. Greenhouse for Organic farming
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200902_174246.jpg)
+
+
+
 
 ----
 
