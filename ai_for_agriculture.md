@@ -243,21 +243,29 @@ List of organizations that we studied. These firms used AI in one way or other t
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/business_model.JPG)
 
 
-- plantix
+- plantix.net
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/plantix_net.jpg)
 
-- avalow
+- avalow.com
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/avalow_com.jpg)
 
 - InFarm
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/InFarm.jpg)
 
-- taranis
+- [agrilution](https://agrilution.com/)
+    - TODO
+
+- taranis.ag
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/taranis_ag.jpg)
 
-- traptic
+- traptic.com
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Competitive_Analysis_business_model/traptic_com.jpg)
 
+- [plantui.com](https://plantui.com)
+    - TODO
+
+- [lettusgrow.com](https://www.lettusgrow.com/)
+    - TODO
 
 
 <a name="Competitive_List"></a>
@@ -394,4 +402,5 @@ In Progress
 - [Intel-Powered AI Helps Optimize Crop Yields](https://www.intel.com/content/www/us/en/big-data/article/agriculture-harvests-big-data.html)
 - [Bosch AI helped a Japanese tomato grower increase his farm’s yield](https://www.bosch.com/stories/greenhouse-guardian-ai-in-agriculture/)
 - [Business model canvas](https://digitaleneuordnung.de/blog/business-model-canvas-erklaerung/)
+- [The New Farm - international hub for smart urban food solutions](http://thenewfarm.nl/en/)
 
