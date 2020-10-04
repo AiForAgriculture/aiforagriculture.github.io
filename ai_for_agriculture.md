@@ -192,17 +192,27 @@ In progress...
 
 1. Define Problem
     - What problem are we trying to solve?
+        - Losses in Organic farming using Greenhouse
     - How do we know this is a real problem?
+        - ?
     - Why is it important to solve?
+        - We care for Organic produce 
+        - Greenhouse produce all the seasons 
+        - Organic farmers have lower yields (50 - 90% less)
+        - The German Federal Government aims to increase organic farming to 20 percent by 2030.
     - Who are our users? What are their goals and motivations?
+        - ?
     - How will we know if we’ve solved the problem?
-    - “How Might We” Questions
+        -?
     - *Affinity Diagrams?
     - PROBLEM STATEMENT FORMAT
         - [The name of your proto-persona]
         - needs a way to [user’s need]
         - because [insight].
         - We will know this to be true when we see [this quantitative / qualitative measure].
+    - Point-Of-View Template: User | Need | Insight 
+    - “How Might We” Questions
+        - ?
     
 1. Competitive Analysis
 
@@ -210,6 +220,10 @@ In progress...
 
 1. Survey 
     - User interview Script
+
+1. References
+    - https://siliconcanals.com/news/urban-farming-startups-europe-to-grow-crops-without-a-farm/
+    - 
 
 
 ----
@@ -374,7 +388,7 @@ In Progress
 - [Double Diamond Strategy](https://www.designcouncil.org.uk/news-opinion/double-diamond-15-years)
 - [Affinity Diagrams]()
 - [...a solid problem statement](https://uxplanet.org/designers-indispensable-skill-the-ability-to-write-and-present-a-solid-problem-statement-56a8b4b8060)
-- ["How Might We"](https://www.interaction-design.org/literature/article/define-and-frame-your-design-challenge-by-creating-your-point-of-view-and-ask-how-might-we)
+- ["How Might We, Point-Of-View"](https://www.interaction-design.org/literature/article/define-and-frame-your-design-challenge-by-creating-your-point-of-view-and-ask-how-might-we)
 - [design process](http://www.dubberly.com/wp-content/uploads/2008/06/ddo_designprocess.pdf)
 - [Intel-Powered AI Helps Optimize Crop Yields](https://www.intel.com/content/www/us/en/big-data/article/agriculture-harvests-big-data.html)
 - [Bosch AI helped a Japanese tomato grower increase his farm’s yield](https://www.bosch.com/stories/greenhouse-guardian-ai-in-agriculture/)
