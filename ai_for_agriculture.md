@@ -223,6 +223,7 @@ In progress...
 
 1. References
     - https://siliconcanals.com/news/urban-farming-startups-europe-to-grow-crops-without-a-farm/
+    - https://www.thebetterindia.com/191847/india-transgender-inspirational-miss-world-diversity-naaz-joshi-international/
     - 
 
 
