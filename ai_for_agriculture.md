@@ -192,7 +192,8 @@ In progress...
 
 1. Define Problem
     - What problem are we trying to solve?
-        - Losses in Organic farming using Greenhouse
+        - Losses in Organic farming using Greenhouse.
+        - Manual Labour and time intensive tasks.
     - How do we know this is a real problem?
         - ?
     - Why is it important to solve?
@@ -203,7 +204,9 @@ In progress...
     - Who are our users? What are their goals and motivations?
         - ?
     - How will we know if we’ve solved the problem?
-        -?
+        - Increased Production and yields. 
+        - "Autonomous Greenhouse"
+    
     - *Affinity Diagrams?
     - PROBLEM STATEMENT FORMAT
         - [The name of your proto-persona]
@@ -215,8 +218,10 @@ In progress...
         - ?
     
 1. Competitive Analysis
+    - https://www.grodan.com/
 
 1. Prototyping
+    - ?
 
 1. Survey 
     - User interview Script
@@ -224,6 +229,11 @@ In progress...
 1. References
     - https://siliconcanals.com/news/urban-farming-startups-europe-to-grow-crops-without-a-farm/
     - https://www.thebetterindia.com/191847/india-transgender-inspirational-miss-world-diversity-naaz-joshi-international/
+    - https://ec.europa.eu/info/food-farming-fisheries/farming/organic-farming
+    - https://www.hortidaily.com/article/9226521/why-ai-will-transform-the-greenhouse-industry/
+    - https://www.pbs.org/wgbh/nova/article/does-ai-hold-key-to-new-green-revolution-in-agriculture/
+    - https://www.wur.nl/en/project/autonomous-greenhouses-2nd-edition.htm
+    - https://www.smartagrihubs.eu/
     - 
 
 
