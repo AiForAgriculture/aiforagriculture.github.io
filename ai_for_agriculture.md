@@ -186,7 +186,7 @@ In progress...
 
 ----
 <a name="Greenhouse_Organic_farming"></a>
-### 3. Greenhouse for Organic farming
+### 3. Autonomous Greenhouse for Organic farming
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200902_174246.jpg)
 
 
@@ -219,6 +219,8 @@ In progress...
     
 1. Competitive Analysis
     - https://www.grodan.com/
+    - https://www.futurefarms.store/
+    
 
 1. Prototyping
     - ?
