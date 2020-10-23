@@ -36,7 +36,7 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 
 - Design Thinking is a solution-focused discipline that aims to match a customer’s needs with well-designed, technologically feasible solutions.
 - Design Thinking, on the other hand, is all about dreaming big and imagining what could be, then transforming these dreams into technologically feasible solutions.
-- We are following "Double Diamond" Strategy.
+- We are following ***The Double Diamond*** Strategy, which basically means "solve the problems by diverging and converging".
 
 
 
