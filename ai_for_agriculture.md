@@ -229,13 +229,13 @@ In progress...
     - User interview Script
 
 
-- References
-    - https://siliconcanals.com/news/urban-farming-startups-europe-to-grow-crops-without-a-farm/
-    - https://ec.europa.eu/info/food-farming-fisheries/farming/organic-farming
-    - https://www.hortidaily.com/article/9226521/why-ai-will-transform-the-greenhouse-industry/
-    - https://www.pbs.org/wgbh/nova/article/does-ai-hold-key-to-new-green-revolution-in-agriculture/
-    - https://www.wur.nl/en/project/autonomous-greenhouses-2nd-edition.htm
-    - https://www.smartagrihubs.eu/
+References,   
+- https://siliconcanals.com/news/urban-farming-startups-europe-to-grow-crops-without-a-farm/
+- https://ec.europa.eu/info/food-farming-fisheries/farming/organic-farming
+- https://www.hortidaily.com/article/9226521/why-ai-will-transform-the-greenhouse-industry/
+- https://www.pbs.org/wgbh/nova/article/does-ai-hold-key-to-new-green-revolution-in-agriculture/
+- https://www.wur.nl/en/project/autonomous-greenhouses-2nd-edition.htm
+- https://www.smartagrihubs.eu/
      
 
 
