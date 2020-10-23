@@ -11,9 +11,7 @@
 
 - [Further Details..](./ai_for_agriculture.md).
 
-- Follow us on [YouTube](https://www.youtube.com/playlist?list=PLajIi55-KLYcZlos3vRQ9Omi4RynH780h)
-
-- [Image Gallery](https://photos.app.goo.gl/nNboanZLULY4cgph7)
+- Follow us on [YouTube](https://www.youtube.com/playlist?list=PLajIi55-KLYcZlos3vRQ9Omi4RynH780h), [Instagram](https://www.instagram.com/ai_for_agriculture/)
 
 - Team   
   - Founder CEO: [Vivek Bombatkar](https://www.linkedin.com/today/author/vivek-bombatkar) 
