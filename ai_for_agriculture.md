@@ -12,6 +12,7 @@
     - [1. Image based crops readiness for Potato farm](#Potato_farm)
     - [2. Sensors for collecting data](#Sensors)
     - [3. Greenhouse for Organic farming](#Greenhouse_Organic_farming)
+    - [4. Home Garden System](#Home_garden_system)
 
 - [General Competitive Analysis](#Competitive_Analysis)   
     - [Competitive Analysis using “Business Model” Canvas](#Business_Model_Canvas)
@@ -237,6 +238,11 @@ References,
 - https://www.wur.nl/en/project/autonomous-greenhouses-2nd-edition.htm
 - https://www.smartagrihubs.eu/
      
+
+----
+<a name="Home_garden_system"></a>
+### 3. Home Garden System
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200902_174246.jpg)
 
 
 ----
