@@ -14,7 +14,7 @@
 - Follow us on [YouTube](https://www.youtube.com/playlist?list=PLajIi55-KLYcZlos3vRQ9Omi4RynH780h), [Instagram](https://www.instagram.com/ai_for_agriculture/), [LinkedIn](https://www.linkedin.com/company/ai-for-agriculture)
 
 - Team   
-  - Founder CEO: [Vivek Bombatkar](https://www.linkedin.com/today/author/vivek-bombatkar) 
+  - Founder: [Vivek Bombatkar](https://www.linkedin.com/today/author/vivek-bombatkar) 
   - Product/UX Researcher: Hiring Now :-)
 
 - Contact us @ _aiforagriculture2020@gmail.com_  
