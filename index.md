@@ -11,7 +11,7 @@
 
 - [Further Details..](./ai_for_agriculture.md).
 
-- Follow us on [YouTube](https://www.youtube.com/playlist?list=PLajIi55-KLYcZlos3vRQ9Omi4RynH780h), [Instagram](https://www.instagram.com/ai_for_agriculture/), [LinkedIn](https://www.linkedin.com/company/ai-for-agriculture)
+- Follow us on [YouTube](https://www.youtube.com/channel/UCnqChxUetinozBSUvYec_ww/playlists), [Instagram](https://www.instagram.com/ai_for_agriculture/), [LinkedIn](https://www.linkedin.com/company/ai-for-agriculture)
 
 - Team   
   - Founder: [Vivek Bombatkar](https://www.linkedin.com/today/author/vivek-bombatkar) 
