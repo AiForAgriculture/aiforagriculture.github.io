@@ -230,7 +230,15 @@ In progress...
     - User interview Script
 
 
-References,   
+References,
+- [Horticulture](https://en.wikipedia.org/wiki/Horticulture)
+    - Horticulturists apply knowledge, skills, and technologies to grow intensively produced plants for human food and non-food uses and for personal or social needs.
+- [Vertical-farming](https://roboticsandautomationnews.com/2019/05/03/top-25-vertical-farming-companies/22181/)
+    - vertical farming refers to the practice of producing fruits and vegetables vertically, in stacked layers, perhaps on many floors inside a building, using artificial lights instead of the sun, and a whole range of relatively new technologies.
+    - The key technologies in vertical farming include:
+        - perception technologies 
+        - artificial intelligence 
+        - automated and even autonomous mechatronics 
 - [What Is Precision Farming, And Who Are The Players To Watch?](https://www.nasdaq.com/articles/what-is-precision-farming-and-who-are-the-players-to-watch-2020-10-07)
     - Precision agriculture is a management strategy that gathers, processes and analyzes temporal, spatial and individual data and combines it with other information to support management decisions according to estimated variability for improved resource use efficiency, productivity, quality, profitability and sustainability of agricultural production.
     - GPS tractor guidance helped farmers to improve crop production by reducing overlaps and gaps when planting, fertilizing, and protecting crops.
@@ -247,8 +255,15 @@ References,
         - 1. Pure agronomic data which includes the data related to the plants themselves
         - 2. Operational data. From spraying to harvesting, plowing to fertilizing, operational data includes information on materials, human resources, machinery, and more.
         - 3. Environmental data. This includes data regarding weather, soil, water, topography, and others that affect crop yield and quality, as well as management plans.
-
-
+- [Horticulture LEDs](https://images.samsung.com/is/content/samsung/p5/led/lighting/applications/horticulture-lighting/White_Paper_Samsung_Horticulture_LED_181121.pdf)
+    - The spectral engineering wavelengths produced by LED lighting are playing an important role in enhancing plant growth and development.
+    - That’s because plant physiology and morphology are strongly influenced by the wavelength optimization impacting a plant’s surface. 
+    - An optimal strategy for using high-quality LED lighting in horticulture would be to select the best spectra for a specific crop or cultivar, one that offers improved quality in the most energy-efficient way.
+    - Photosynthetic responses are generally similar among the various types of plants
+    - morphological response seems to be more species- and cultivar-specific
+    - ***Red*** radiation is often considered the most efficient at driving photosynthesis based on the quantum yield.
+    - ***Blue*** light, however, is essential for both the vegetative and flowering stages of plant growth. 
+    - we have found that ***red, then green, followed by blue light are most effective in photosynthesis***, based on the quantum yield for CO2
 
 
 - https://siliconcanals.com/news/urban-farming-startups-europe-to-grow-crops-without-a-farm/
