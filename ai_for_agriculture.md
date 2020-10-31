@@ -231,6 +231,26 @@ In progress...
 
 
 References,   
+- [What Is Precision Farming, And Who Are The Players To Watch?](https://www.nasdaq.com/articles/what-is-precision-farming-and-who-are-the-players-to-watch-2020-10-07)
+    - Precision agriculture is a management strategy that gathers, processes and analyzes temporal, spatial and individual data and combines it with other information to support management decisions according to estimated variability for improved resource use efficiency, productivity, quality, profitability and sustainability of agricultural production.
+    - GPS tractor guidance helped farmers to improve crop production by reducing overlaps and gaps when planting, fertilizing, and protecting crops.
+    - capabilities of precision agriculture as well,
+        - Choosing suitable crops with higher yields and more lucrative markets
+        - Measure the performance of the site by automatically capturing relevant data
+        - Increasing the farm’s economic and environmental sustainability
+        - Predicting climate changes and reacting to them proactively
+    - Farmobile and its DataEngine that ingests and standardizes farming data so that it can be shared and used to create insights; 
+    - Trace Genomics that provides soil DNA sequencing services to farmers and agronomists; and 
+    - CiBo Technologies that allows farmers to create “virtual fields” with real-world inputs.
+- [Is disparate agronomic data dead?](https://start.agritask.com/blog/is-disparate-agronomic-data-dead/)
+    - analyzing agricultural data,
+        - 1. Pure agronomic data which includes the data related to the plants themselves
+        - 2. Operational data. From spraying to harvesting, plowing to fertilizing, operational data includes information on materials, human resources, machinery, and more.
+        - 3. Environmental data. This includes data regarding weather, soil, water, topography, and others that affect crop yield and quality, as well as management plans.
+
+
+
+
 - https://siliconcanals.com/news/urban-farming-startups-europe-to-grow-crops-without-a-farm/
 - https://ec.europa.eu/info/food-farming-fisheries/farming/organic-farming
 - https://www.hortidaily.com/article/9226521/why-ai-will-transform-the-greenhouse-industry/
