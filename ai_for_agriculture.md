@@ -265,20 +265,23 @@ References,
     - ***Blue*** light, however, is essential for both the vegetative and flowering stages of plant growth. 
     - we have found that ***red, then green, followed by blue light are most effective in photosynthesis***, based on the quantum yield for CO2
 
-
+- file:///C:/Users/minal/Downloads/Shamshiri_et_al_2018_Advances_in_ControlledEnvironment_UrbanAgriculture.pdf
 - https://siliconcanals.com/news/urban-farming-startups-europe-to-grow-crops-without-a-farm/
 - https://ec.europa.eu/info/food-farming-fisheries/farming/organic-farming
 - https://www.hortidaily.com/article/9226521/why-ai-will-transform-the-greenhouse-industry/
 - https://www.pbs.org/wgbh/nova/article/does-ai-hold-key-to-new-green-revolution-in-agriculture/
 - https://www.wur.nl/en/project/autonomous-greenhouses-2nd-edition.htm
 - https://www.smartagrihubs.eu/
-     
+- https://yourstory.com/2020/09/agriculture-data-led-green-revolution-startups-agritech?utm_pageloadtype=scroll
+- https://www.omnivore.vc/wp-content/uploads/2020/09/Vision-2030-report-08092020.pdf
 
 ----
 <a name="Home_garden_system"></a>
 ### 3. Home Garden System
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200902_174246.jpg)
 
+References,
+- https://www.cnet.com/google-amp/news/gardyn-review-building-a-wall-of-salad-is-easy-with-indoor-smart-hydroponics/
 
 ----
 
