@@ -191,46 +191,7 @@ In progress...
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200902_174246.jpg)
 
 
-1. Define Problem
-    - What problem are we trying to solve?
-        - Losses in Organic farming using Greenhouse.
-        - Manual Labour and time intensive tasks.
-    - How do we know this is a real problem?
-        - ?
-    - Why is it important to solve?
-        - We care for Organic produce 
-        - Greenhouse produce all the seasons 
-        - Organic farmers have lower yields (50 - 90% less)
-        - The German Federal Government aims to increase organic farming to 20 percent by 2030.
-    - Who are our users? What are their goals and motivations?
-        - ?
-    - How will we know if we’ve solved the problem?
-        - Increased Production and yields. 
-        - "Autonomous Greenhouse"
-    
-    - *Affinity Diagrams?
-    - PROBLEM STATEMENT FORMAT
-        - [The name of your proto-persona]
-        - needs a way to [user’s need]
-        - because [insight].
-        - We will know this to be true when we see [this quantitative / qualitative measure].
-    - Point-Of-View Template: User | Need | Insight 
-    - “How Might We” Questions
-        - ?
-    
-1. Competitive Analysis
-    - https://www.grodan.com/
-    - https://www.futurefarms.store/
-    
-
-1. Prototyping
-    - ?
-
-1. Survey 
-    - User interview Script
-
-
-References,
+1. Discovery
 - [Horticulture](https://en.wikipedia.org/wiki/Horticulture)
     - Horticulturists apply knowledge, skills, and technologies to grow intensively produced plants for human food and non-food uses and for personal or social needs.
 - [Vertical-farming](https://roboticsandautomationnews.com/2019/05/03/top-25-vertical-farming-companies/22181/)
@@ -264,7 +225,53 @@ References,
     - ***Red*** radiation is often considered the most efficient at driving photosynthesis based on the quantum yield.
     - ***Blue*** light, however, is essential for both the vegetative and flowering stages of plant growth. 
     - we have found that ***red, then green, followed by blue light are most effective in photosynthesis***, based on the quantum yield for CO2
+- [Why AI will transform the greenhouse industry, Top 5 top reasons](https://www.hortidaily.com/article/9226521/why-ai-will-transform-the-greenhouse-industry/)
+    - The demand for food will continue to increase
+    - The maturity level of technology is ready
+    - Growers are ready
+    - Big data creates great potential for personal and local solutions
+    - Automation for utmost efficiency
+    
 
+1. Define Problem
+    - What problem are we trying to solve?
+        - Losses in Organic farming using Greenhouse.
+        - Manual Labour and time intensive tasks.
+    - How do we know this is a real problem?
+        - ?
+    - Why is it important to solve?
+        - We care for Organic produce 
+        - Greenhouse produce all the seasons 
+        - Organic farmers have lower yields (50 - 90% less)
+        - The German Federal Government aims to increase organic farming to 20 percent by 2030.
+    - Who are our users? What are their goals and motivations?
+        - ?
+    - How will we know if we’ve solved the problem?
+        - Increased Production and yields. 
+        - "Autonomous Greenhouse"
+    
+    - *Affinity Diagrams?
+    - PROBLEM STATEMENT FORMAT
+        - [The name of your proto-persona]
+        - needs a way to [user’s need]
+        - because [insight].
+        - We will know this to be true when we see [this quantitative / qualitative measure].
+    - Point-Of-View Template: User | Need | Insight 
+    - “How Might We” Questions
+        - ?
+    
+1. Competitive Analysis
+    - https://www.grodan.com/
+    - https://www.futurefarms.store/
+
+1. Survey 
+    - User interview Script    
+
+1. Prototyping
+    - ?
+
+
+References,
 - file:///C:/Users/minal/Downloads/Shamshiri_et_al_2018_Advances_in_ControlledEnvironment_UrbanAgriculture.pdf
 - https://siliconcanals.com/news/urban-farming-startups-europe-to-grow-crops-without-a-farm/
 - https://ec.europa.eu/info/food-farming-fisheries/farming/organic-farming
