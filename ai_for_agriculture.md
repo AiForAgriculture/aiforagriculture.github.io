@@ -284,7 +284,7 @@ References,
 
 ----
 <a name="Home_garden_system"></a>
-### 3. Home Garden System
+### 3. AI backed Home Garden System
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200902_174246.jpg)
 
 
