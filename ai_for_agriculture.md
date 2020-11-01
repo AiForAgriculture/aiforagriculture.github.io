@@ -231,7 +231,7 @@ In progress...
     - Growers are ready
     - Big data creates great potential for personal and local solutions
     - Automation for utmost efficiency
-    
+
 
 1. Define Problem
     - What problem are we trying to solve?
@@ -286,6 +286,18 @@ References,
 <a name="Home_garden_system"></a>
 ### 3. Home Garden System
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200902_174246.jpg)
+
+
+1. Discovery  
+
+1. Define Problem  
+
+1. Competitive Analysis  
+
+1. Survey  
+
+1. Prototyping 
+
 
 References,
 - https://www.cnet.com/google-amp/news/gardyn-review-building-a-wall-of-salad-is-easy-with-indoor-smart-hydroponics/
