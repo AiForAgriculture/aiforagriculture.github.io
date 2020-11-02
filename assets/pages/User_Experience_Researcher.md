@@ -1,5 +1,4 @@
-Role, 
-UX researcher 
+Role: UX researcher 
 
 Key Responsibilities, 
 - Planning and conducting consumer research at 'early stage' of the product’s lifecycle
