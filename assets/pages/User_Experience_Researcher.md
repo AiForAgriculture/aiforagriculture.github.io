@@ -11,4 +11,5 @@ Expectations,
 - Use a diverse set of UX research tools.
 - Positive attitude and be productive from day one :-) 
 
+Please note this is volunteer (non paid) position.
 
