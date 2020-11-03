@@ -498,14 +498,14 @@ In Progress
 1. ***How does freelancer contribute?***
 - Three simple steps to follow for working on any subtask.
     - One. Cerate a Subtask.
-        - Each contributor creates its own subtask for the Story that he is working on.
+        - Each contributor creates its own subtask for the Story that he/she is working on.
 
     - Two. Work using your own choice of toolsets.
-        - The contributor then continues to research and development on the subtask using a choice of tools that he is comfortable with.
+        - The contributor then continues to research and development on the subtask using a choice of tools that he/she is comfortable with.
 
     - Three. Submit final work to Git repository.  
-        - The contributor then submits his research / findings / presentations to the Git repository.
-        - We will follow the simplified [Gitflow](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/github-flow#following-the-github-flow) here, i.e.
+        - The contributor then submits his/her research, findings, presentations, etc. to the Git repository.
+        - For this we will follow the simplified [Gitflow](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/github-flow#following-the-github-flow), i.e.
             - The contributor creates own branch.
             - Upload work in the branch
             - We will review the branch (or pull request) together.
@@ -515,16 +515,16 @@ In Progress
 1. ***What exactly do we expect Freelancer to produce?*** 
     - We expect each contributor to produce a comprehensive research work for most of the points mention in the [Discovery phase](https://aiforagriculture.github.io/ai_for_agriculture.html#Discovery_phase)
     - i.e.
-        - 1. Competitive Analysis 
-        - 2. Define Problem Statment 
-        - 3. Interview questioner
-        - 4. Document user interview results
-        - 5. Craft personas 
-        - 6. POC Ideation
+        - Competitive Analysis 
+        - Define Problem Statment 
+        - Interview questioner
+        - Document user interview results
+        - Craft personas 
+        - POC Ideation
     - Each individual may produce his own work on these topics which may or may not aligned with other contributors.   
 
 1. ***How to create my branch from github.com website?***  
-- All details available [HERE](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)
+    - All details available [HERE](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)
 
 1. ***How flexible is the problem definition mentioned in case studies***  
     - The ‘problem definition’ mentioned is for reference only and not to be taken for granted.
