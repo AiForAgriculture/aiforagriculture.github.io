@@ -206,45 +206,49 @@ In progress...
 
 
 1. Discovery
-- [Horticulture](https://en.wikipedia.org/wiki/Horticulture)
-    - Horticulturists apply knowledge, skills, and technologies to grow intensively produced plants for human food and non-food uses and for personal or social needs.
-- [Vertical-farming](https://roboticsandautomationnews.com/2019/05/03/top-25-vertical-farming-companies/22181/)
-    - vertical farming refers to the practice of producing fruits and vegetables vertically, in stacked layers, perhaps on many floors inside a building, using artificial lights instead of the sun, and a whole range of relatively new technologies.
-    - The key technologies in vertical farming include:
-        - perception technologies 
-        - artificial intelligence 
-        - automated and even autonomous mechatronics 
-- [What Is Precision Farming, And Who Are The Players To Watch?](https://www.nasdaq.com/articles/what-is-precision-farming-and-who-are-the-players-to-watch-2020-10-07)
-    - Precision agriculture is a management strategy that gathers, processes and analyzes temporal, spatial and individual data and combines it with other information to support management decisions according to estimated variability for improved resource use efficiency, productivity, quality, profitability and sustainability of agricultural production.
-    - GPS tractor guidance helped farmers to improve crop production by reducing overlaps and gaps when planting, fertilizing, and protecting crops.
-    - capabilities of precision agriculture as well,
-        - Choosing suitable crops with higher yields and more lucrative markets
-        - Measure the performance of the site by automatically capturing relevant data
-        - Increasing the farm’s economic and environmental sustainability
-        - Predicting climate changes and reacting to them proactively
-    - Farmobile and its DataEngine that ingests and standardizes farming data so that it can be shared and used to create insights; 
-    - Trace Genomics that provides soil DNA sequencing services to farmers and agronomists; and 
-    - CiBo Technologies that allows farmers to create “virtual fields” with real-world inputs.
-- [Is disparate agronomic data dead?](https://start.agritask.com/blog/is-disparate-agronomic-data-dead/)
-    - analyzing agricultural data,
-        - 1. Pure agronomic data which includes the data related to the plants themselves
-        - 2. Operational data. From spraying to harvesting, plowing to fertilizing, operational data includes information on materials, human resources, machinery, and more.
-        - 3. Environmental data. This includes data regarding weather, soil, water, topography, and others that affect crop yield and quality, as well as management plans.
-- [Horticulture LEDs](https://images.samsung.com/is/content/samsung/p5/led/lighting/applications/horticulture-lighting/White_Paper_Samsung_Horticulture_LED_181121.pdf)
-    - The spectral engineering wavelengths produced by LED lighting are playing an important role in enhancing plant growth and development.
-    - That’s because plant physiology and morphology are strongly influenced by the wavelength optimization impacting a plant’s surface. 
-    - An optimal strategy for using high-quality LED lighting in horticulture would be to select the best spectra for a specific crop or cultivar, one that offers improved quality in the most energy-efficient way.
-    - Photosynthetic responses are generally similar among the various types of plants
-    - morphological response seems to be more species- and cultivar-specific
-    - ***Red*** radiation is often considered the most efficient at driving photosynthesis based on the quantum yield.
-    - ***Blue*** light, however, is essential for both the vegetative and flowering stages of plant growth. 
-    - we have found that ***red, then green, followed by blue light are most effective in photosynthesis***, based on the quantum yield for CO2
-- [Why AI will transform the greenhouse industry, Top 5 top reasons](https://www.hortidaily.com/article/9226521/why-ai-will-transform-the-greenhouse-industry/)
-    - The demand for food will continue to increase
-    - The maturity level of technology is ready
-    - Growers are ready
-    - Big data creates great potential for personal and local solutions
-    - Automation for utmost efficiency
+    - [Horticulture](https://en.wikipedia.org/wiki/Horticulture)
+        - Horticulturists apply knowledge, skills, and technologies to grow intensively produced plants for human food and non-food uses and for personal or social needs.
+    - [Vertical-farming](https://roboticsandautomationnews.com/2019/05/03/top-25-vertical-farming-companies/22181/)
+        - vertical farming refers to the practice of producing fruits and vegetables vertically, in stacked layers, perhaps on many floors inside a building, using artificial lights instead of the sun, and a whole range of relatively new technologies.
+        - The key technologies in vertical farming include:
+            - perception technologies 
+            - artificial intelligence 
+            - automated and even autonomous mechatronics 
+    - [What Is Precision Farming, And Who Are The Players To Watch?](https://www.nasdaq.com/articles/what-is-precision-farming-and-who-are-the-players-to-watch-2020-10-07)
+        - Precision agriculture is a management strategy that gathers, processes and analyzes temporal, spatial and individual data and combines it with other information to support management decisions according to estimated variability for improved resource use efficiency, productivity, quality, profitability and sustainability of agricultural production.
+        - GPS tractor guidance helped farmers to improve crop production by reducing overlaps and gaps when planting, fertilizing, and protecting crops.
+        - capabilities of precision agriculture as well,
+            - Choosing suitable crops with higher yields and more lucrative markets
+            - Measure the performance of the site by automatically capturing relevant data
+            - Increasing the farm’s economic and environmental sustainability
+            - Predicting climate changes and reacting to them proactively
+        - Farmobile and its DataEngine that ingests and standardizes farming data so that it can be shared and used to create insights; 
+        - Trace Genomics that provides soil DNA sequencing services to farmers and agronomists; and 
+        - CiBo Technologies that allows farmers to create “virtual fields” with real-world inputs.
+    - [Is disparate agronomic data dead?](https://start.agritask.com/blog/is-disparate-agronomic-data-dead/)
+        - analyzing agricultural data,
+            - 1. Pure agronomic data which includes the data related to the plants themselves
+            - 2. Operational data. From spraying to harvesting, plowing to fertilizing, operational data includes information on materials, human resources, machinery, and more.
+            - 3. Environmental data. This includes data regarding weather, soil, water, topography, and others that affect crop yield and quality, as well as management plans.
+    - [Horticulture LEDs](https://images.samsung.com/is/content/samsung/p5/led/lighting/applications/horticulture-lighting/White_Paper_Samsung_Horticulture_LED_181121.pdf)
+        - The spectral engineering wavelengths produced by LED lighting are playing an important role in enhancing plant growth and development.
+        - That’s because plant physiology and morphology are strongly influenced by the wavelength optimization impacting a plant’s surface. 
+        - An optimal strategy for using high-quality LED lighting in horticulture would be to select the best spectra for a specific crop or cultivar, one that offers improved quality in the most energy-efficient way.
+        - Photosynthetic responses are generally similar among the various types of plants
+        - morphological response seems to be more species- and cultivar-specific
+        - ***Red*** radiation is often considered the most efficient at driving photosynthesis based on the quantum yield.
+        - ***Blue*** light, however, is essential for both the vegetative and flowering stages of plant growth. 
+        - we have found that ***red, then green, followed by blue light are most effective in photosynthesis***, based on the quantum yield for CO2
+    - [Why AI will transform the greenhouse industry, Top 5 top reasons](https://www.hortidaily.com/article/9226521/why-ai-will-transform-the-greenhouse-industry/)
+        - The demand for food will continue to increase
+        - The maturity level of technology is ready
+        - Growers are ready
+        - Big data creates great potential for personal and local solutions
+        - Automation for utmost efficiency
+
+1. Competitive Analysis 
+    - https://www.grodan.com/
+    - https://www.futurefarms.store/
 
 
 1. Define Problem
@@ -264,25 +268,14 @@ In progress...
         - Increased Production and yields. 
         - "Autonomous Greenhouse"
     
-    - *Affinity Diagrams?
-    - PROBLEM STATEMENT FORMAT
-        - [The name of your proto-persona]
-        - needs a way to [user’s need]
-        - because [insight].
-        - We will know this to be true when we see [this quantitative / qualitative measure].
     - Point-Of-View Template: User | Need | Insight 
     - “How Might We” Questions
         - ?
     
-1. Competitive Analysis
-    - https://www.grodan.com/
-    - https://www.futurefarms.store/
-
-1. Survey 
-    - User interview Script    
-
-1. Prototyping
-    - ?
+1. Interview questioner
+1. Document user interview results
+1. Craft personas 
+1. POC Ideation
 
 
 References,
@@ -519,6 +512,16 @@ In Progress
             - Merge it to the Master branch(the main branch from where work is visible in the project website). 
 
 
+1. ***What exactly do we expect Freelancer to produce?*** 
+    - We expect each contributor to produce a comprehensive research work for most of the points mention in the [Discovery phase](https://aiforagriculture.github.io/ai_for_agriculture.html#Discovery_phase)
+    - i.e.
+        - 1. Competitive Analysis 
+        - 2. Define Problem Statment 
+        - 3. Interview questioner
+        - 4. Document user interview results
+        - 5. Craft personas 
+        - 6. POC Ideation
+    - Each individual may produce his own work on these topics which may or may not aligned with other contributors.   
 
 1. ***How to create my branch from github.com website?***  
 - All details available [HERE](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)
