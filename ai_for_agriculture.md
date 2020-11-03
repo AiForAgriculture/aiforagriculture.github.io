@@ -24,6 +24,8 @@
 
 - [Further Reading](#Further_Reading)   
 
+- [FAQ](#FAQ)
+
 ---
 
 
@@ -479,3 +481,35 @@ In Progress
 - [Business model canvas](https://digitaleneuordnung.de/blog/business-model-canvas-erklaerung/)
 - [The New Farm - international hub for smart urban food solutions](http://thenewfarm.nl/en/)
 
+
+----
+
+<a name="FAQ"></a>
+
+# FAQs
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200826_095444.jpg)
+
+1. ***How does freelancer contribute?***
+Three simple steps to follow for working on any subtask.
+a. Cerate a Subtask.
+b. Work using your own choice of toolsets.
+c. Submit final work to Git repository.  
+
+More on the above steps, 
+    a. Cerate a Subtask.
+    - Each contributor creates its own subtask for the Story that he is working on.
+
+    b. Work using your own choice of toolsets.
+    - The contributor then continues to research and development on the subtask using a choice of tools that he is comfortable with.
+
+    c. Submit final work to Git repository. 
+    - The contributor then submits his research / findings / presentations to the Git repository.
+    - We will follow the simplified [Gitflow](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/github-flow#following-the-github-flow) here, i.e.
+        - The contributor creates own branch.
+        - Upload work in the branch
+        - We will review the branch (or pull request) together.
+        - Merge it to the Master branch(the main branch from where work is visible in the project website). 
+
+1. ***How to create my branch from github.com website?***
+All details available [HERE](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)
