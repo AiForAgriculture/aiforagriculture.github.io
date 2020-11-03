@@ -491,25 +491,22 @@ In Progress
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200826_095444.jpg)
 
 1. ***How does freelancer contribute?***
-Three simple steps to follow for working on any subtask.
-a. Cerate a Subtask.
-b. Work using your own choice of toolsets.
-c. Submit final work to Git repository.  
+- Three simple steps to follow for working on any subtask.
+    - One. Cerate a Subtask.
+        - Each contributor creates its own subtask for the Story that he is working on.
 
-More on the above steps, 
-    a. Cerate a Subtask.
-    - Each contributor creates its own subtask for the Story that he is working on.
+    - Two. Work using your own choice of toolsets.
+        - The contributor then continues to research and development on the subtask using a choice of tools that he is comfortable with.
 
-    b. Work using your own choice of toolsets.
-    - The contributor then continues to research and development on the subtask using a choice of tools that he is comfortable with.
+    - Three. Submit final work to Git repository.  
+        - The contributor then submits his research / findings / presentations to the Git repository.
+        - We will follow the simplified [Gitflow](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/github-flow#following-the-github-flow) here, i.e.
+            - The contributor creates own branch.
+            - Upload work in the branch
+            - We will review the branch (or pull request) together.
+            - Merge it to the Master branch(the main branch from where work is visible in the project website). 
 
-    c. Submit final work to Git repository. 
-    - The contributor then submits his research / findings / presentations to the Git repository.
-    - We will follow the simplified [Gitflow](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/github-flow#following-the-github-flow) here, i.e.
-        - The contributor creates own branch.
-        - Upload work in the branch
-        - We will review the branch (or pull request) together.
-        - Merge it to the Master branch(the main branch from where work is visible in the project website). 
 
-1. ***How to create my branch from github.com website?***
-All details available [HERE](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)
+
+1. ***How to create my branch from github.com website?***  
+- All details available [HERE](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)
