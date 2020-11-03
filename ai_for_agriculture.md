@@ -510,3 +510,9 @@ In Progress
 
 1. ***How to create my branch from github.com website?***  
 - All details available [HERE](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)
+
+1. ***How flexible is the problem definition mentioned in case studies***  
+    - The ‘problem definition’ mentioned is for reference only and not to be taken for granted.
+    - As this is the initial phase of the project we are flexible very Agile!  
+    - Though one can use it as a starting point to start his research.
+
