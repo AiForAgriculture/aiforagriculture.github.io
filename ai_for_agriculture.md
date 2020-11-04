@@ -296,7 +296,7 @@ References,
 ----
 <a name="Home_garden_system"></a>
 ### 3. AI backed Home Garden System
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200902_174246.jpg)
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200824_133603.jpg)
 
 
 1. Competitive Analysis 
@@ -497,7 +497,7 @@ In Progress
 
 # FAQs
 
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200826_095444.jpg)
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_115417.jpg)
 
 1. ***How does freelancer contribute?***
 - Three simple steps to follow for working on any subtask.
