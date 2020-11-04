@@ -247,8 +247,12 @@ In progress...
         - Automation for utmost efficiency
 
 1. Competitive Analysis 
-    - https://www.grodan.com/
-    - https://www.futurefarms.store/
+    - grodan.com/
+    - futurefarms.store/
+    - plantix.net/en/
+    - infarm.com
+    - taranis.ag
+    - traptic.com
 
 
 1. Define Problem
@@ -295,15 +299,15 @@ References,
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200902_174246.jpg)
 
 
-1. Discovery  
+1. Competitive Analysis 
+    - agrilution.com
+    - mygardyn.com
 
-1. Define Problem  
-
-1. Competitive Analysis  
-
-1. Survey  
-
-1. Prototyping 
+1. Define Problem Statement 
+1. Interview questioner
+1. Document user interview results
+1. Craft personas 
+1. POC Ideation
 
 
 References,
