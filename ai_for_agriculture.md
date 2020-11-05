@@ -499,8 +499,13 @@ In Progress
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_115417.jpg)
 
-1. ***How does freelancer contribute?***
-- Three simple steps to follow for working on any subtask.
+1. ***How do we coordinate work?***  
+    - We follow [Agile](https://www.atlassian.com/agile/project-management/epics-stories-themes) way if working. 
+    - we use Jira board to create Epics, Stories and subtasks. 
+    - Upon joining team each Volunteer will get access to our Jira board.
+
+1. ***How does Volunteer contribute?***
+- Three simple steps to follow.
     - One. Cerate a Subtask.
         - Each contributor creates its own subtask for the Story that he/she is working on.
 
@@ -516,22 +521,22 @@ In Progress
             - Merge it to the Master branch(the main branch from where work is visible in the project website). 
 
 
-1. ***What exactly do we expect Freelancer to produce?*** 
+1. ***What exactly do we expect Volunteers to produce?*** 
     - We expect each contributor to produce a comprehensive research work for most of the points mention in the [Discovery phase](https://aiforagriculture.github.io/ai_for_agriculture.html#Discovery_phase)
     - i.e.
         - Competitive Analysis 
-        - Define Problem Statment 
+        - Define Problem Statement 
         - Interview questioner
         - Document user interview results
         - Craft personas 
         - POC Ideation
-    - Each individual may produce his own work on these topics which may or may not aligned with other contributors.   
+    - Each individual may produce his/her own work on these topics which may or may not aligned with other contributors.   
 
 1. ***How to create my branch from github.com website?***  
     - All details available [HERE](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)
 
 1. ***How flexible is the problem definition mentioned in case studies***  
     - The ‘problem definition’ mentioned is for reference only and not to be taken for granted.
-    - As this is the initial phase of the project we are flexible very Agile!  
+    - As this is the initial phase of the project, we are flexible very Agile!  
     - Though one can use it as a starting point to start his research.
 
