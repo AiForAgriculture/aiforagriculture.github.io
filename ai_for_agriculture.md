@@ -8,6 +8,8 @@
 
 - [What are we doing now? "Design Thinking"](#one)
     - [Steps in the Discovery phase](#Discovery_phase)
+    - [Brief example of Discovery Phase](#example_Discovery_Phase)
+
 - [Case Studies](#two)
     - [1. Image based crops readiness for Potato farm](#Potato_farm)
     - [2. Sensors for collecting data](#Sensors)
@@ -76,6 +78,12 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 1. POC Ideation
      - Craft “information radiators” (e.g. journey maps, Affinity mapping) 
 
+
+<a name="example_Discovery_Phase"></a>
+### Brief example of Discovery Phase
+- Sample vision of Discovery phase, applying Design Thinking Double Diamond Strategy.
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Discovery_phase.jpg)
 
 ----
 
@@ -502,9 +510,9 @@ In Progress
 1. ***How do we coordinate work?***  
     - We follow [Agile](https://www.atlassian.com/agile/project-management/epics-stories-themes) way if working. 
     - we use Jira board to create Epics, Stories and subtasks. 
-    - Upon joining team each Volunteer will get access to our Jira board.
+    - Upon joining team each Contributor will get access to our Jira board.
 
-1. ***How does Volunteer contribute?***
+1. ***How does Contributor contribute?***
 - Three simple steps to follow.
     - One. Cerate a Subtask.
         - Each contributor creates its own subtask for the Story that he/she is working on.
@@ -521,7 +529,7 @@ In Progress
             - Merge it to the Master branch(the main branch from where work is visible in the project website). 
 
 
-1. ***What exactly do we expect Volunteers to produce?*** 
+1. ***What exactly do we expect Contributors to produce?*** 
     - We expect each contributor to produce a comprehensive research work for most of the points mention in the [Discovery phase](https://aiforagriculture.github.io/ai_for_agriculture.html#Discovery_phase)
     - i.e.
         - Competitive Analysis 
@@ -531,6 +539,9 @@ In Progress
         - Craft personas 
         - POC Ideation
     - Each individual may produce his/her own work on these topics which may or may not aligned with other contributors.   
+
+1. ***Example of end to end Discovery phase?***
+    - Sample vision of Discovery phase, applying Design Thinking Double Diamond Strategy if mention [HERE](https://aiforagriculture.github.io/ai_for_agriculture.html#example_Discovery_Phase)
 
 1. ***How to create my branch from github.com website?***  
     - All details available [HERE](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)
