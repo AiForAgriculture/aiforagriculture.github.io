@@ -10,21 +10,24 @@
     - [Steps in the Discovery phase](#Discovery_phase)
     - [Brief example of Discovery Phase](#example_Discovery_Phase)
 
-- [Case Studies](#two)
+- [Case Studies; research-in-progress](#two)
     - [1. Image based crops readiness for Potato farm](#Potato_farm)
     - [2. Sensors for collecting data](#Sensors)
     - [3. Greenhouse for Organic farming](#Greenhouse_Organic_farming)
     - [4. Home Garden System](#Home_garden_system)
+    - [5. <Research Subject>, <Volunteer Name>](#new_case_study)
 
-- [General Competitive Analysis](#Competitive_Analysis)   
+- [Blog](#Competitive_Analysis)
+
+    - [General Competitive Analysis](#Competitive_Analysis)   
     - [Competitive Analysis using “Business Model” Canvas](#Business_Model_Canvas)
     - [Competitive List](#Competitive_List)   
 
-- [Farming Facts of Germany](#Farming-Facts-of-Germany)   
+    - [Farming Facts of Germany](#Farming-Facts-of-Germany)   
 
-- [Story Telling using Agriculture data](#Story_Telling)   
+    - [Story Telling using Agriculture data](#Story_Telling)   
 
-- [Further Reading](#Further_Reading)   
+    - [Further Reading](#Further_Reading)   
 
 - [FAQ](#FAQ)
 
@@ -321,6 +324,14 @@ References,
 References,
 - https://www.cnet.com/google-amp/news/gardyn-review-building-a-wall-of-salad-is-easy-with-indoor-smart-hydroponics/
 
+
+----
+<a name="new_case_study"></a>
+### 3. <Research Subject>, <Volunteer Name>
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
+
+- This will be place to merge research done by Volunteer.
+
 ----
 
 <a name="Competitive_Analysis"></a>
@@ -510,7 +521,7 @@ In Progress
 1. ***How do we coordinate work?***  
     - We follow [Agile](https://www.atlassian.com/agile/project-management/epics-stories-themes) way if working. 
     - we use Jira board to create Epics, Stories and subtasks. 
-    - Upon joining team each Contributor will get access to our Jira board.
+    - Upon joining team, each Contributor will get access to our Jira board.
 
 1. ***How does Contributor contribute?***
 - Three simple steps to follow.
@@ -539,6 +550,11 @@ In Progress
         - Craft personas 
         - POC Ideation
     - Each individual may produce his/her own work on these topics which may or may not aligned with other contributors.   
+
+1. ***Where dose Contributors research work get added to the project?***
+    - We create a separate space in the "Case Studies" section for each Contributor.
+    - We will help Contributors to push their research work, that they have done on any given tool, to Github repository. 
+    - Here is an example, https://aiforagriculture.github.io/ai_for_agriculture.html#new_case_study 
 
 1. ***Example of end to end Discovery phase?***
     - Sample vision of Discovery phase, applying Design Thinking Double Diamond Strategy is mention [HERE](https://aiforagriculture.github.io/ai_for_agriculture.html#example_Discovery_Phase)
