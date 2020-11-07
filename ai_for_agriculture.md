@@ -15,7 +15,7 @@
     - [2. Sensors for collecting data](#Sensors)
     - [3. Greenhouse for Organic farming](#Greenhouse_Organic_farming)
     - [4. Home Garden System](#Home_garden_system)
-    - [5. <Research Subject>, <Volunteer Name>](#new_case_study)
+    - [5. Research Subject, Volunteer Name](#new_case_study)
 
 - [Blog](#Competitive_Analysis)
 
@@ -327,7 +327,7 @@ References,
 
 ----
 <a name="new_case_study"></a>
-### 3. <Research Subject>, <Volunteer Name>
+### 3. Research Subject, Volunteer Name
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
 
 - This will be place to merge research done by Volunteer.
