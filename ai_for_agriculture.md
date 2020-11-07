@@ -541,7 +541,7 @@ In Progress
     - Each individual may produce his/her own work on these topics which may or may not aligned with other contributors.   
 
 1. ***Example of end to end Discovery phase?***
-    - Sample vision of Discovery phase, applying Design Thinking Double Diamond Strategy if mention [HERE](https://aiforagriculture.github.io/ai_for_agriculture.html#example_Discovery_Phase)
+    - Sample vision of Discovery phase, applying Design Thinking Double Diamond Strategy is mention [HERE](https://aiforagriculture.github.io/ai_for_agriculture.html#example_Discovery_Phase)
 
 1. ***How to create my branch from github.com website?***  
     - All details available [HERE](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)
