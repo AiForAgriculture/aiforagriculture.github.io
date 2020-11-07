@@ -554,7 +554,7 @@ In Progress
 1. ***Where dose Contributors research work get added to the project?***
     - We create a separate space in the "Case Studies" section for each Contributor.
     - We will help Contributors to push their research work, that they have done on any given tool, to Github repository. 
-    - Here is an example, https://aiforagriculture.github.io/ai_for_agriculture.html#new_case_study 
+    - An example, [HERE](https://aiforagriculture.github.io/ai_for_agriculture.html#new_case_study) 
 
 1. ***Example of end to end Discovery phase?***
     - Sample vision of Discovery phase, applying Design Thinking Double Diamond Strategy is mention [HERE](https://aiforagriculture.github.io/ai_for_agriculture.html#example_Discovery_Phase)
