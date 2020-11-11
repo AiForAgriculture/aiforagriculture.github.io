@@ -15,7 +15,8 @@
     - [2. Sensors for collecting data](#Sensors)
     - [3. Greenhouse for Organic farming](#Greenhouse_Organic_farming)
     - [4. Home Garden System](#Home_garden_system)
-    - [5. Research Subject, Volunteer Name](#new_case_study)
+    - [5. Vertical Farming, [William Cheng]](#vertical_farming)
+    - [6. Research Subject, Volunteer Name](#new_case_study)
 
 - [Blog](#Competitive_Analysis)
 
@@ -306,7 +307,7 @@ References,
 
 ----
 <a name="Home_garden_system"></a>
-### 3. AI backed Home Garden System
+### 4. AI backed Home Garden System
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200824_133603.jpg)
 
 
@@ -326,8 +327,44 @@ References,
 
 
 ----
+<a name="vertical_farming"></a>
+### 5. Vertical Farming, [William Cheng](https://williamcheng.design/)
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
+
+1. Competitive Analysis / User Research
+    - The Definition of Vertical Farming and its history
+        1. Vertical farming is the practice of growing crops in vertically stacked layers. It often incorporates controlled-environment agriculture, which aims to optimize plant growth, and soilless farming techniques such as hydroponics, aquaponics, and aeroponics.
+
+        2. Vertical farming often but not always uses technology to aid the growing process, for example, common elements include:
+
+            - humidity control
+
+            - temperature control
+
+            - artificial lighting (mixes of artificial and natural light can be used)
+
+            - control/monitoring of nutrients and fertilizer
+
+        3. The modern concept "vertical farming" was popularized in the 1990's by Dickson Despommier, a professor of ecology at Columbia University in NYC.
+
+        4.Today in 2020, There are over 100 commercial vertical farming companies that have raised venture capital and are actually growing food that you have likely already purchased at the grocery store!
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
+
+
+1. Define Problem Statement 
+1. Interview questioner
+1. Document user interview results
+1. Craft personas 
+1. POC Ideation
+----
+
+----
 <a name="new_case_study"></a>
-### 3. Research Subject, Volunteer Name
+### 6. Research Subject, Volunteer Name
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
 
 - This will be place to merge research done by Volunteer.
