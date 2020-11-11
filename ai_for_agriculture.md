@@ -337,22 +337,18 @@ References,
         1. Vertical farming is the practice of growing crops in vertically stacked layers. It often incorporates controlled-environment agriculture, which aims to optimize plant growth, and soilless farming techniques such as hydroponics, aquaponics, and aeroponics.
 
         2. Vertical farming often but not always uses technology to aid the growing process, for example, common elements include:
-
             - humidity control
-
             - temperature control
-
             - artificial lighting (mixes of artificial and natural light can be used)
-
             - control/monitoring of nutrients and fertilizer
 
         3. The modern concept "vertical farming" was popularized in the 1990's by Dickson Despommier, a professor of ecology at Columbia University in NYC.
 
-        4.Today in 2020, There are over 100 commercial vertical farming companies that have raised venture capital and are actually growing food that you have likely already purchased at the grocery store!
+            4.Today in 2020, There are over 100 commercial vertical farming companies that have raised venture capital and are actually growing food that you have likely already purchased at the grocery store!
 
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/verfical_farming/afa_12(1).png)
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/verfical_farming/afa_12(1).png)
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/verfical_farming/afa_12(1).png)
+            ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/verfical_farming/afa_12_1.png)
+            ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/verfical_farming/afa_12_2.png)
+            ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/verfical_farming/afa_12_3.png)
 
 
 1. Define Problem Statement 
