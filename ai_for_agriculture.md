@@ -350,9 +350,9 @@ References,
 
         4.Today in 2020, There are over 100 commercial vertical farming companies that have raised venture capital and are actually growing food that you have likely already purchased at the grocery store!
 
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/verfical_farming/afa_12(1).png)
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/verfical_farming/afa_12(1).png)
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/verfical_farming/afa_12(1).png)
 
 
 1. Define Problem Statement 
