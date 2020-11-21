@@ -19,15 +19,12 @@
 
 - [Blog](#Competitive_Analysis)
 
-    - [General Competitive Analysis](#Competitive_Analysis)   
+    - [General Competitive Analysis](#Competitive_Analysis)
     - [Competitive Analysis using “Business Model” Canvas](#Business_Model_Canvas)
-    - [Competitive List](#Competitive_List)   
-
-    - [Farming Facts of Germany](#Farming-Facts-of-Germany)   
-
-    - [Story Telling using Agriculture data](#Story_Telling)   
-
-    - [Further Reading](#Further_Reading)   
+    - [Competitive List](#Competitive_List)
+    - [Farming Facts of Germany](#Farming-Facts-of-Germany)
+    - [Story Telling using Agriculture data](#Story_Telling)
+    - [Further Reading](#Further_Reading)
 
 - [FAQ](#FAQ)
 
