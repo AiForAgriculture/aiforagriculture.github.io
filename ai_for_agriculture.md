@@ -18,7 +18,6 @@
     - [5. Research Subject, Volunteer Name](#new_case_study)
 
 - [Blog](#Competitive_Analysis)
-
     - [General Competitive Analysis](#Competitive_Analysis)
     - [Competitive Analysis using “Business Model” Canvas](#Business_Model_Canvas)
     - [Competitive List](#Competitive_List)
