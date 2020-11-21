@@ -343,7 +343,8 @@ References,
         3. The modern concept "vertical farming" was popularized in the 1990's by Dickson Despommier, a professor of ecology at Columbia University in NYC.
         4. Today in 2020, There are over 100 commercial vertical farming companies that have raised venture capital and are actually growing food that you have likely already purchased at the grocery store!
 
-            - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/verfical_farming/afa_12_1.png)
+            - ![alt text](https://github.com/AiForAgriculture/aiforagriculture.github.io/vertical_farming_williamcheng/assets/img/verfical_farming/afa_12_1.png?raw=true)
+            - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/afa_12_1.png)
             - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/verfical_farming/afa_12_2.png)
             - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/verfical_farming/afa_12_3.png)
 
