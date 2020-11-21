@@ -333,7 +333,7 @@ References,
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
 
 1. Competitive Analysis / User Research
-    - The Definition of Vertical Farming and its history
+    - ***The Definition of Vertical Farming and its history***
         1. Vertical farming is the practice of growing crops in vertically stacked layers. It often incorporates controlled-environment agriculture, which aims to optimize plant growth, and soilless farming techniques such as hydroponics, aquaponics, and aeroponics.
         2. Vertical farming often but not always uses technology to aid the growing process, for example, common elements include:
             - humidity control
@@ -343,11 +343,32 @@ References,
         3. The modern concept "vertical farming" was popularized in the 1990's by Dickson Despommier, a professor of ecology at Columbia University in NYC.
         4. Today in 2020, There are over 100 commercial vertical farming companies that have raised venture capital and are actually growing food that you have likely already purchased at the grocery store!
 
-            - ![alt text](https://github.com/AiForAgriculture/aiforagriculture.github.io/vertical_farming_williamcheng/assets/img/verfical_farming/afa_12_1.png?raw=true)
             - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/afa_12_1.png)
-            - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/verfical_farming/afa_12_2.png)
-            - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/verfical_farming/afa_12_3.png)
+            - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/afa_12_2.png)
+            - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/afa_12_3.png)
+    
+    - ***Pros and Cons***
+        1. Pros:
+            - Reduction of food miles
 
+        2. Cons:
+            - Extreme cost to operate from a financial perspective: According to IDTechEx, the power and labour costs. 
+            - Vertical farming companies face a difficult decision between the extremely high start-up costs of a highly automated facility to reduce labour costs and improve efficiency, versus a cheaper facility with less automation and higher labour costs. 
+            - The report states that very few vertical farming companies currently operate profitably. 
+            - If investor enthusiasm dies down, companies that are not operating efficiently could suffer.
+
+        3. Extreme cost to operate from a resource perspective (energy): Vertical farming uses a lot of electricity. This not only makes vertical farming expensive but also presents issues with sustainability, with the energy used in the process far outweighing the benefits of reduced transport through local production.
+
+        4. ps: key question: how much energy does a vertical farm need? The required amount of water and CO2 can be reduced compared to a ‘traditional’ greenhouse, but this is not the case for the cooling and dehumidification demand. The high internal heat load and the lack of natural ventilation ensure a high cooling demand, which consequently results in the residual heat
+
+        5. Re-use residual heat: Graamans says the question is whether this residual heat could be used in the surrounding urban environment. “One of the key features of vertical farming is that it can take place in the city, which would allow it to exchange energy with other users. Those other users could become customers of the residual heat from the vertical farm.”
+
+        6. Mostly limited to leafy greens and herbs: high value crops that are easy to grow and where most of the mass of the crop can be eaten.
+
+        7. The PROBLEM is not just about FOOD PRODUCTION, but also about the costs for water, energy and CO2.
+    
+            - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/Screenshot_10.png)
+            - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/Screenshot_8.png)
 
 1. Define Problem Statement 
 1. Interview questioner
