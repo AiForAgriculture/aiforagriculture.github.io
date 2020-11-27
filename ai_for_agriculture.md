@@ -327,7 +327,7 @@ References,
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
 
 - This will be place to merge research done by Volunteer.
-
+- This is test!!!
 ----
 
 <a name="Competitive_Analysis"></a>
