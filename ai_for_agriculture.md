@@ -467,6 +467,9 @@ References,
 
 
 1. Define Problem Statement 
+    -  Empowered ModernFarmer with AI so that they take Organic produce using Vertical farming methods, because low yield in Organic produce.
+
+
 1. Interview questioner
 1. Document user interview results
 1. Craft personas 
