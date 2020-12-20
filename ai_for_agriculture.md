@@ -383,82 +383,23 @@ References,
         - artificial lighting (mixes of artificial and natural light can be used)
         - control / monitoring of nutrients and fertilizer
         
-    - [Top 3 Reasons Why Vertical Farms Fail](https://miro.com/app/board/o9J_khH9ApQ=/?moveToWidget=3074457351474970895&cot=14)
+    - [Top 3 Reasons Why Vertical Farms Fail](https://www.maximumyield.com/top-3-reasons-why-vertical-farms-fail/2/3177)
         1. They try to do too many things at once. "Farmers can either grow food or develop technology, but they shouldn’t do both"
         2. They forget that labor is always the biggest cost.
         3. They don’t treat the farm like a process.
         - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/Screenshot_3.png)
 
-    - [The 4 Factors of Vertical Farm Success](https://miro.com/app/board/o9J_khH9ApQ=/?moveToWidget=3074457351704187441&cot=14)
+    - [The 4 Factors of Vertical Farm Success](https://www.maximumyield.com/the-4-factors-of-vertical-farm-success/2/3319)
         - Factor #1: Space-use efficiency and productivity
         - Factor #2: Labor Costs
         - Factor #3: Profitability
         - Factor #4: Environment and Plant Health
 
     - Current examples of crops and business models
-        - High Value: Low Volume - herbs and micro-greens
-            - POSITIVES:
-                - High value customer
-                - High value crop
-                - Crop suited to Vertical Farming
-            - NEGATIVES:
-                - Difficult to scale (niche market)
-                - Labour intensive
-                - Affluent urban areas only
-                - High levels of customer service
+         - High Value: Low Volume - herbs and micro-greens
          - High volume - Close to Customer: leafy greens and salads
-            - POSITIVES:
-                - Shortened supply chain Economies of scale
-
-                - Can incorporate automation Improved shelf life
-
-                - Attractive to certain types of investors
-
-
-
-            - NEGATIVES:
-
-                - Expensive set up costs
-
-                - At risk of producing a commodity crop
-
-                - Expensive rent or property costs if in urban area
-
          - Plant Breeding: seed crops
-            - POSITIVES:
-
-                - Multiple crop generations
-
-                - Can create specialist growing environments
-
-                - Allows selection of seed for CEA growing
-
-                - Extends current seed portfolio
-
-                - Can breed for specific characteristics (e.g sweetness)
-
-
-
-             - NEGATIVES:
-
-                - Need to know final growing conditions (outdoors/indoors) to make sure the seed performs well there too.
          - Medicinal/ Plantceuticals/Biofactories
-            - POSITIVES:
-
-                - High value crop Consumers want personalised nutrition and will pay for the privilege
-
-                - Positive population health implications
-
-                - Total control allows consistent high-quality plants High biosecurity levels suited to the ‘pharma’ industry
-
-
-
-            - NEGATIVES:
-
-                - Potentially closed industry (highly regulated contracts)
-
-                - Will personalised nutrition only be available to the wealthy?
-
 
     - What are the costs involved?
         - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/Japan_vertical_farm.png)
@@ -476,7 +417,7 @@ References,
 
 References,
 - https://www.verticalfarmingconference.com/
-- 
+- https://www.maximumyield.com/introduction-vertical-farming/2/1474
 ----
 
 ----
