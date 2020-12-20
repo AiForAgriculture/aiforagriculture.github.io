@@ -15,7 +15,8 @@
     - [2. Sensors for collecting data](#Sensors)
     - [3. Greenhouse for Organic farming](#Greenhouse_Organic_farming)
     - [4. Home Garden System](#Home_garden_system)
-    - [5. Research Subject, Volunteer Name](#new_case_study)
+    - [5. Vertical Farming, [William Cheng]](#vertical_farming)
+    - [6. Research Subject, Volunteer Name](#new_case_study)
 
 - [Blog](#Competitive_Analysis)
     - [General Competitive Analysis](#Competitive_Analysis)
@@ -302,7 +303,7 @@ References,
 
 ----
 <a name="Home_garden_system"></a>
-### 3. AI backed Home Garden System
+### 4. AI backed Home Garden System
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200824_133603.jpg)
 
 
@@ -322,8 +323,163 @@ References,
 
 
 ----
+<a name="vertical_farming"></a>
+### 5. Vertical Farming, [William Cheng](https://williamcheng.design/)
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
+
+1. Competitive Analysis / User Research
+    - ***The Definition of Vertical Farming and its history***
+        1. Vertical farming is the practice of growing crops in vertically stacked layers. It often incorporates controlled-environment agriculture, which aims to optimize plant growth, and soilless farming techniques such as hydroponics, aquaponics, and aeroponics.
+        2. Vertical farming often but not always uses technology to aid the growing process, for example, common elements include:
+            - humidity control
+            - temperature control
+            - artificial lighting (mixes of artificial and natural light can be used)
+            - control/monitoring of nutrients and fertilizer
+        3. The modern concept "vertical farming" was popularized in the 1990's by Dickson Despommier, a professor of ecology at Columbia University in NYC.
+        4. Today in 2020, There are over 100 commercial vertical farming companies that have raised venture capital and are actually growing food that you have likely already purchased at the grocery store!
+
+            - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/afa_12_1.png)
+            - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/afa_12_2.png)
+            - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/afa_12_3.png)
+    
+    - ***Pros and Cons***
+        1. Pros:
+            - Reduction of food miles
+
+        2. Cons:
+            - Extreme cost to operate from a financial perspective: According to IDTechEx, the power and labour costs. 
+            - Vertical farming companies face a difficult decision between the extremely high start-up costs of a highly automated facility to reduce labour costs and improve efficiency, versus a cheaper facility with less automation and higher labour costs. 
+            - The report states that very few vertical farming companies currently operate profitably. 
+            - If investor enthusiasm dies down, companies that are not operating efficiently could suffer.
+
+        3. Extreme cost to operate from a resource perspective (energy): Vertical farming uses a lot of electricity. This not only makes vertical farming expensive but also presents issues with sustainability, with the energy used in the process far outweighing the benefits of reduced transport through local production.
+
+        4. ps: key question: how much energy does a vertical farm need? The required amount of water and CO2 can be reduced compared to a ‘traditional’ greenhouse, but this is not the case for the cooling and dehumidification demand. The high internal heat load and the lack of natural ventilation ensure a high cooling demand, which consequently results in the residual heat
+
+        5. Re-use residual heat: Graamans says the question is whether this residual heat could be used in the surrounding urban environment. “One of the key features of vertical farming is that it can take place in the city, which would allow it to exchange energy with other users. Those other users could become customers of the residual heat from the vertical farm.”
+
+        6. Mostly limited to leafy greens and herbs: high value crops that are easy to grow and where most of the mass of the crop can be eaten.
+
+        7. The PROBLEM is not just about FOOD PRODUCTION, but also about the costs for water, energy and CO2.
+    
+            - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/Screenshot_10.png)
+            - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/Screenshot_8.png)
+            
+     - Pontential keys to the success of the industry
+        - Growing methods
+        - LEDs and lighting (Improved resource-use efficiency)
+        - Environmental controls: Plant condition issues like: CO2, Nutrients, Climate
+        - Sensors
+        - Automation (Robotics)
+        - Container farming
+        - Food safety / HACCP
+      
+    - Vertical farming often but not always uses technology to aid the growing process, for example common elements include:
+        - humidity control
+        - temperature control
+        - artificial lighting (mixes of artificial and natural light can be used)
+        - control / monitoring of nutrients and fertilizer
+        
+    - [Top 3 Reasons Why Vertical Farms Fail](https://miro.com/app/board/o9J_khH9ApQ=/?moveToWidget=3074457351474970895&cot=14)
+        1. They try to do too many things at once. "Farmers can either grow food or develop technology, but they shouldn’t do both"
+        2. They forget that labor is always the biggest cost.
+        3. They don’t treat the farm like a process.
+        - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/Screenshot_3.png)
+
+    - [The 4 Factors of Vertical Farm Success](https://miro.com/app/board/o9J_khH9ApQ=/?moveToWidget=3074457351704187441&cot=14)
+        - Factor #1: Space-use efficiency and productivity
+        - Factor #2: Labor Costs
+        - Factor #3: Profitability
+        - Factor #4: Environment and Plant Health
+
+    - Current examples of crops and business models
+        - High Value: Low Volume - herbs and micro-greens
+            - POSITIVES:
+                - High value customer
+                - High value crop
+                - Crop suited to Vertical Farming
+            - NEGATIVES:
+                - Difficult to scale (niche market)
+                - Labour intensive
+                - Affluent urban areas only
+                - High levels of customer service
+         - High volume - Close to Customer: leafy greens and salads
+            - POSITIVES:
+                - Shortened supply chain Economies of scale
+
+                - Can incorporate automation Improved shelf life
+
+                - Attractive to certain types of investors
+
+
+
+            - NEGATIVES:
+
+                - Expensive set up costs
+
+                - At risk of producing a commodity crop
+
+                - Expensive rent or property costs if in urban area
+
+         - Plant Breeding: seed crops
+            - POSITIVES:
+
+                - Multiple crop generations
+
+                - Can create specialist growing environments
+
+                - Allows selection of seed for CEA growing
+
+                - Extends current seed portfolio
+
+                - Can breed for specific characteristics (e.g sweetness)
+
+
+
+             - NEGATIVES:
+
+                - Need to know final growing conditions (outdoors/indoors) to make sure the seed performs well there too.
+         - Medicinal/ Plantceuticals/Biofactories
+            - POSITIVES:
+
+                - High value crop Consumers want personalised nutrition and will pay for the privilege
+
+                - Positive population health implications
+
+                - Total control allows consistent high-quality plants High biosecurity levels suited to the ‘pharma’ industry
+
+
+
+            - NEGATIVES:
+
+                - Potentially closed industry (highly regulated contracts)
+
+                - Will personalised nutrition only be available to the wealthy?
+
+
+    - What are the costs involved?
+        - ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/vertical_farming_williamcheng/assets/img/verfical_farming/Japan_vertical_farm.png)
+
+
+1. Define Problem Statement 
+    -  Empowered ModernFarmer with AI so that they take Organic produce using Vertical farming methods, because low yield in Organic produce.
+
+
+1. Interview questioner
+1. Document user interview results
+1. Craft personas 
+1. POC Ideation
+
+
+References,
+- https://www.verticalfarmingconference.com/
+- 
+----
+
+----
 <a name="new_case_study"></a>
-### 3. Research Subject, Volunteer Name
+### 6. Research Subject, Volunteer Name
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
 
 - This will be place to merge research done by Volunteer.
