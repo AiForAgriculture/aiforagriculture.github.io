@@ -15,6 +15,7 @@
 
 - Team   
   - Founder: [Vivek](https://www.linkedin.com/today/author/vivek-bombatkar) 
-  - [UX Researcher](./assets/pages/User_Experience_Researcher.md): [Minal](https://www.linkedin.com/in/minalbombatkar/) and looking for volunteers :-)
+  - Lead UX Researcher: [Minal](https://www.linkedin.com/in/minalbombatkar/) 
+  - We are looking for volunteers in the position of [UX Researcher](./assets/pages/User_Experience_Researcher.md)
 
-- Contact us @ _aiforagriculture2020@gmail.com_  
+- Contact us @ _AIforAgriculture2020@gmail.com_  
