@@ -10,7 +10,7 @@
     - [Steps in the Discovery phase](#Discovery_phase)
     - [Brief example of Discovery Phase](#example_Discovery_Phase)
 
-- [Case Studies; research-in-progress](#two)
+- [Current research-in-progress case studies](#two)
     - [1. Image based crops readiness for Potato farm](#Potato_farm)
     - [2. Sensors for collecting data](#Sensors)
     - [3. Greenhouse for Organic farming](#Greenhouse_Organic_farming)
@@ -41,6 +41,14 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 - Design Thinking is a solution-focused discipline that aims to match a customer’s needs with well-designed, technologically feasible solutions.
 - Design Thinking, on the other hand, is all about dreaming big and imagining what could be, then transforming these dreams into technologically feasible solutions.
 - We are following ***The Double Diamond*** Strategy, which basically means "solve the problems by diverging and converging".
+
+
+
+<a name="example_Discovery_Phase"></a>
+### Brief example of Discovery Phase
+- Sample vision of Discovery phase, applying Design Thinking Double Diamond Strategy.
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Discovery_phase.jpg)
 
 
 
@@ -78,12 +86,6 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 1. POC Ideation
      - Craft “information radiators” (e.g. journey maps, Affinity mapping) 
 
-
-<a name="example_Discovery_Phase"></a>
-### Brief example of Discovery Phase
-- Sample vision of Discovery phase, applying Design Thinking Double Diamond Strategy.
-
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Discovery_phase.jpg)
 
 ----
 
@@ -671,9 +673,9 @@ In Progress
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_115417.jpg)
 
 1. ***How do we coordinate work?***  
-    - We follow [Agile](https://www.atlassian.com/agile/project-management/epics-stories-themes) way if working. 
-    - we use Jira board to create Epics, Stories and subtasks. 
-    - Upon joining team, each Contributor will get access to our Jira board.
+    - We follow [Agile](https://www.atlassian.com/agile/project-management/epics-stories-themes) way of working. 
+    - we use Jira board to create Epics, Stories and Subtasks. 
+    - Upon joining team, each Contributor will get access to our own Jira board.
 
 1. ***How does Contributor contribute?***
 - Three simple steps to follow.
@@ -716,6 +718,6 @@ In Progress
 
 1. ***How flexible is the problem definition mentioned in case studies***  
     - The ‘problem definition’ mentioned is for reference only and not to be taken for granted.
-    - As this is the initial phase of the project, we are flexible very Agile!  
     - Though one can use it as a starting point to start his research.
+
 
