@@ -585,6 +585,22 @@ In Progress
 
 ----
 
+<a name="Story_Telling"></a>
+
+# 'Agtech' in German Startup ecosystem
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200926_105497.JPG)
+
+- In Germany, corporates are currently more interested in already developed ideas and are reluctant to take risks.
+- Startups have no difficulty in obtaining investments and funding, but this support is usually limited to the beginning of the startup. In Germany there is a lack of funding in later phases of the startup.
+
+
+Resources,
+- https://www.farm-and-food.com/en/rewiew-ecosystem-agtech/
+- https://www.startupnationcentral.org/accelerator/
+- https://f3.de/
+----
+
 <a name="Further_Reading"></a>
 
 # Further Reading
