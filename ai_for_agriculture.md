@@ -89,7 +89,7 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 
 ----
 
-<a name="Case_Studies"></a>
+<a name="#two"></a>
 # Case Studies.
 
 <a name="Potato_farm"></a>
