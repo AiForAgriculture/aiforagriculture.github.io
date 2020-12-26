@@ -23,7 +23,7 @@
     - [Competitive Analysis using “Business Model” Canvas](#Business_Model_Canvas)
     - [Competitive List](#Competitive_List)
     - [Farming Facts of Germany](#Farming-Facts-of-Germany)
-    - [Story Telling using Agriculture data](#Story_Telling)
+    - [Story Telling using Plant data](#Story_Telling)
     - [‘Agtech’ in German Startup ecosystem](#Agtech)
 
 
@@ -579,12 +579,15 @@ List of organizations that we studied. These firms used AI in one way or other t
 
 <a name="Story_Telling"></a>
 
-# Story Telling using Agriculture data
+# Story Telling using Plant  data
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200926_105497.JPG)
 
+Resources,
+- https://www.hackster.io/green-team/how-to-build-plant-observatory-using-azure-iot-and-node-js-ad2d31
+- https://wiki.seeedstudio.com/Grove_Smart_Plant_Care_Kit/
+- 
 
-In Progress 
 
 ----
 
@@ -602,6 +605,8 @@ Resources,
 - https://www.farm-and-food.com/en/rewiew-ecosystem-agtech/
 - https://www.startupnationcentral.org/accelerator/
 - https://f3.de/
+
+
 ----
 
 <a name="Further_Reading"></a>
