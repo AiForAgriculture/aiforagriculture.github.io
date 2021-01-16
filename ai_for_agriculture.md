@@ -42,8 +42,7 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/design_thinking_process.jpg)
 
 - Design Thinking is a solution-focused discipline that aims to match a customer’s needs with well-designed, technologically feasible solutions.
-- Design Thinking, on the other hand, is all about dreaming big and imagining what could be, then transforming these dreams into technologically feasible solutions.
-- We are following ***The Double Diamond*** Strategy, which basically means "solve the problems by diverging and converging".
+- We are following ***The Double Diamond*** Strategy (the green dotted line diamonds in above image), which basically means "solve the problems by diverging and converging".
 
 
 
