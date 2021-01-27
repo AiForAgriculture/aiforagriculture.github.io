@@ -16,7 +16,8 @@
     - [3. Greenhouse for Organic farming](#Greenhouse_Organic_farming)
     - [4. Home Garden System](#Home_garden_system)
     - [5. Vertical Farming, [William Cheng]](#vertical_farming)
-    - [6. Research Subject, Volunteer Name](#new_case_study)
+    - [6. Farm data collection for insurance claim](#farm_data_insurance_claim)   
+    - [7. Research Subject, Volunteer Name](#new_case_study)
 
 - [Blog](#Competitive_Analysis)
     - [General Competitive Analysis](#Competitive_Analysis)
@@ -424,13 +425,14 @@ References,
 
 <a name="farm_data_insurance_claim"></a>
 ### 6. Farm data collection for insurance claim 
+
 First idea drasft using using “Business Model” Canvas.
  
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/other_research/20210127_143246.jpg)
 
 
 Top competitors:
-  
+
 
 
 Resources:
