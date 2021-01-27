@@ -422,6 +422,26 @@ References,
 - https://www.maximumyield.com/introduction-vertical-farming/2/1474
 ----
 
+<a name="farm_data_insurance_claim"></a>
+### 6. Farm data collection for insurance claim 
+First idea drasft using using “Business Model” Canvas.
+ 
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/other_research/20210127_143246.jpg)
+
+
+Top competitors:
+  
+
+
+Resources:
+- https://blogs.worldbank.org/sites/default/files/agricultural-insurance-data-15sept2015.pdf
+- https://info.undp.org/docs/pdc/Documents/ARM/Agriculture%20Insurance%20Report.pdf
+- https://www.cbinsights.com/research/agriculture-tech-market-map-company-list/
+- https://myagdata.com/2018/03/01/4-ways-automated-data-collection-puts-farmers-in-control/
+- https://www.usaid.gov/sites/default/files/documents/15396/Guide_to_Using_Digital_Tools_to_Expand_Agricultural_Insurance.pdf
+- https://assets.ey.com/content/dam/ey-sites/ey-com/en_in/topics/start-ups/2020/09/ey-agritech-towards-transforming-indian-agriculture.pdf?download
+- 
+
 ----
 <a name="new_case_study"></a>
 ### 6. Research Subject, Volunteer Name
