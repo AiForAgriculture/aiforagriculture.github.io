@@ -421,6 +421,7 @@ References,
 References,
 - https://www.verticalfarmingconference.com/
 - https://www.maximumyield.com/introduction-vertical-farming/2/1474
+
 ----
 
 <a name="farm_data_insurance_claim"></a>
@@ -432,7 +433,7 @@ First idea drasft using using “Business Model” Canvas.
 
 
 Top competitors:
-
+- TODO
 
 
 Resources:
@@ -445,6 +446,7 @@ Resources:
 - 
 
 ----
+
 <a name="new_case_study"></a>
 ### 6. Research Subject, Volunteer Name
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200828_113020.jpg)
