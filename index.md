@@ -14,7 +14,7 @@
 - Follow us on [YouTube](https://www.youtube.com/channel/UCnqChxUetinozBSUvYec_ww/playlists), [Instagram](https://www.instagram.com/ai_for_agriculture/), [LinkedIn](https://www.linkedin.com/company/ai-for-agriculture)
 
 - Team   
-  - Founder: [Vivek](https://www.linkedin.com/today/author/vivek-bombatkar) 
+  - Founder: [Vivek](https://www.linkedin.com/in/vivek-bombatkar) 
   - Lead UX Researcher: [Minal](https://www.linkedin.com/in/minalbombatkar/) 
   - We are looking for volunteers in the position of [UX Researcher](./assets/pages/User_Experience_Researcher.md)
 

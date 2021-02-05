@@ -422,7 +422,9 @@ References,
 - https://www.verticalfarmingconference.com/
 - https://www.maximumyield.com/introduction-vertical-farming/2/1474
 
+
 ----
+
 
 <a name="farm_data_insurance_claim"></a>
 ### 6. Farm data collection for insurance claim 
@@ -433,7 +435,9 @@ First idea drasft using using “Business Model” Canvas.
 
 
 Top competitors:
-- TODO
+- https://www.cropin.com/
+- https://www.heliopas.com/
+
 
 
 Resources:
@@ -443,7 +447,8 @@ Resources:
 - https://myagdata.com/2018/03/01/4-ways-automated-data-collection-puts-farmers-in-control/
 - https://www.usaid.gov/sites/default/files/documents/15396/Guide_to_Using_Digital_Tools_to_Expand_Agricultural_Insurance.pdf
 - https://assets.ey.com/content/dam/ey-sites/ey-com/en_in/topics/start-ups/2020/09/ey-agritech-towards-transforming-indian-agriculture.pdf?download
-- 
+- https://yourstory.com/2020/02/ai-agritech-startup-cropin-government-partnership
+- https://www.financialexpress.com/industry/future-farming-leveraging-data-for-crop-insurance/1798103/
 
 ----
 
