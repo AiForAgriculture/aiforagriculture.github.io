@@ -307,14 +307,22 @@ References,
 - https://www.omnivore.vc/wp-content/uploads/2020/09/Vision-2030-report-08092020.pdf
 
 ----
+
 <a name="Home_garden_system"></a>
 ### 4. AI backed Home Garden System
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200824_133603.jpg)
 
 
 1. Competitive Analysis 
+- AI Based
     - agrilution.com
     - mygardyn.com
+    - backtotheroots.com
+    - growgardenio.com
+    - lettucegrow.com
+    - plantui.com
+- Non AI BASED
+    - urbankisaan.com/homekits
 
 1. Define Problem Statement 
 1. Interview questioner
@@ -325,9 +333,14 @@ References,
 
 References,
 - https://www.cnet.com/google-amp/news/gardyn-review-building-a-wall-of-salad-is-easy-with-indoor-smart-hydroponics/
+- https://www.uschamber.com/co/good-company/the-leap/grow-your-own-food-startups
+- https://siliconcanals.com/news/urban-farming-startups-europe-to-grow-crops-without-a-farm/
+
+
 
 
 ----
+
 <a name="vertical_farming"></a>
 ### 5. Vertical Farming, [William Cheng](https://williamcheng.design/)
 
