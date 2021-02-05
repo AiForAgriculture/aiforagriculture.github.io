@@ -309,7 +309,7 @@ References,
 ----
 
 <a name="Home_garden_system"></a>
-### 4. AI backed Home Garden System
+### 4. AI backed Home Growing System
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200824_133603.jpg)
 
 
