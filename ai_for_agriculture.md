@@ -693,6 +693,10 @@ Resources,
 
 1. ***How does Contributor contribute?***
 - Three simple steps to follow.
+
+[![Checkout this video with process mention in detail!](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/RoqhbhU2jC4)
+
+
     - One. Cerate a Subtask.
         - Each contributor creates its own subtask for the Story that he/she is working on.
 
