@@ -694,7 +694,7 @@ Resources,
 1. ***How does Contributor contribute?***
 - Three simple steps to follow.
 
-[![Checkout this video with process mention in detail!](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/RoqhbhU2jC4)
+[![Checkout this video with process mention in detail!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/other_research/FAQ_video_thumbnil.jpg)](https://youtu.be/RoqhbhU2jC4)
 
 
     - One. Cerate a Subtask.
