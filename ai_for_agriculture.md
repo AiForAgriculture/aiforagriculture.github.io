@@ -314,15 +314,23 @@ References,
 
 
 1. Competitive Analysis 
-- AI Based
-    - agrilution.com
-    - mygardyn.com
-    - backtotheroots.com
-    - growgardenio.com
-    - lettucegrow.com
-    - plantui.com
-- Non AI BASED
-    - urbankisaan.com/homekits
+    - AI Based
+        - agrilution.com
+        - mygardyn.com
+        - backtotheroots.com
+        - growgardenio.com
+        - lettucegrow.com
+        - plantui.com
+    
+    - Non AI BASED
+        - urbankisaan.com/homekits
+    
+    - Home garden DIY kits
+        - https://nymag.com/strategist/article/best-indoor-garden-kits.html
+        - 
+    
+    - Gardening Apps
+        - https://www.countryliving.com/gardening/g32392629/gardening-apps/
 
 1. Define Problem Statement 
 1. Interview questioner
