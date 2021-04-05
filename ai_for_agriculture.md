@@ -9,7 +9,8 @@
 - [What are we doing now? "Design Thinking"](#one)
     - [Steps in the Discovery phase](#Discovery_phase)
     - [Brief example of Discovery Phase](#example_Discovery_Phase)
-
+- [‘GREEN’, AI-Backed Home Gardens
+](#green)
 - [Current research-in-progress case studies](#two)
     - [1. Image based crops readiness for Potato farm](#Potato_farm)
     - [2. Sensors for collecting data](#Sensors)
@@ -88,6 +89,23 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 
 1. POC Ideation
      - Craft “information radiators” (e.g. journey maps, Affinity mapping) 
+
+
+---
+
+<a name="#green"></a>
+# ‘GREEN’, AI-Backed Home Gardens.
+
+
+### [Clickable Wireframe](https://xd.adobe.com/view/f747ac78-74cd-4b0a-a1e6-9fb4b10ae8e7-a214/)
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/green\Green.jpg)
+
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/green\Green_1.jpg)
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/green\Green_2.jpg)
+
 
 
 ----
