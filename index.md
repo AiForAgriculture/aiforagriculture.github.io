@@ -19,3 +19,7 @@
   - We are looking for volunteers in the position of [UX Researcher](./assets/pages/User_Experience_Researcher.md)
 
 - Contact us @ _AIforAgriculture2020@gmail.com_  
+
+- Achievements
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/minal_bombatkar_certificate_CGIFrankfurt.png)
