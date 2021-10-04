@@ -25,9 +25,10 @@
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/minal_bombatkar_certificate_CGIFrankfurt.png)
 
 
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/minal_bombatkar_IndoGermanStartupReviewProgram.JPG)
-
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/vivek_bombatkar_certificate_CGIFrankfurt.png)
+
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/minal_bombatkar_IndoGermanStartupReviewProgram.JPG)
 
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/vivek_bombatkar_IndoGermanStartupReviewProgram.JPG)
