@@ -20,10 +20,12 @@
 
 - Contact us @ _AIforAgriculture2020@gmail.com_  
 
-- Achievements
+- Achievements & Certifications
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/minal_bombatkar_certificate_CGIFrankfurt.png)
 
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/minal_bombatkar_IndoGermanStartupReviewProgram.JPG)
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Minal_Bombatkar_pusa_beej2021_certificate.jpg)
 
