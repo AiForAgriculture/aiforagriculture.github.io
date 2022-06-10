@@ -92,11 +92,12 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 
 ---
 
-<a name="#green"></a>
+<a name="green"></a>
 # ‘GREEN’, AI-Backed Home Gardens.
+This prototype was designed after conducting several user interviews, for one of the competition.
 
 
-### [<<< Clickable Wireframe >>>](https://xd.adobe.com/view/f747ac78-74cd-4b0a-a1e6-9fb4b10ae8e7-a214/)
+### [<<< Clickable Wireframe >>>](https://xd.adobe.com/view/643c0d47-ce71-4e60-8288-c26cf328b23c-316f/)
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/green/Green.jpg)
 
@@ -108,7 +109,7 @@ We are in ***Discovery*** phase of ***Design Thinking philosophy***.
 
 ----
 
-<a name="#two"></a>
+<a name="two"></a>
 # Case Studies.
 
 <a name="Potato_farm"></a>
