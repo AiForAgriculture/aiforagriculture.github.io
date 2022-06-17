@@ -10,6 +10,7 @@
     - [Steps in the Discovery phase](#Discovery_phase)
     - [Brief example of Discovery Phase](#example_Discovery_Phase)
 - [‘GREEN’, AI-Backed Home Gardens](#green)
+- [Farm Visits](#Farm_Visits)
 - [Current research-in-progress case studies](#two)
     - [1. Image based crops readiness for Potato farm](#Potato_farm)
     - [2. Sensors for collecting data](#Sensors)
@@ -105,6 +106,24 @@ This prototype was designed after conducting several user interviews, for one of
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/green/Green_2.jpg)
 
+
+
+
+----   
+
+<a name="Farm_Visits"></a>
+# Farm Visits.     
+During our product-research we have visited several farms in Germany and India.   
+We have collected useful insights by not only conducting farmer interviews but also participating field activities together with farmers!     
+
+1. Sahyadri farms, a Unicorn Farmer_Producer company (FPC), Nashik India. April 2022    
+    - https://www.sahyadrifarms.com/      
+
+1. Hydroponic farming, Anirit Urban Agrofood,Nashik India. April 2022    
+    - https://www.aniriturbanagro.com/   
+
+1. Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. June 2022     
+    - https://www.hollerhof-erzgebirge.de/   
 
 
 ----
