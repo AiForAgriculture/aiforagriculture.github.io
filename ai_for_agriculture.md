@@ -113,16 +113,21 @@ This prototype was designed after conducting several user interviews, for one of
 
 <a name="Farm_Visits"></a>
 # Farm Visits.     
-During our product-research we have visited several farms in Germany and India.   
-We have collected useful insights by not only conducting farmer interviews but also participating field activities together with farmers!     
+During our product research, we visited several farms in Germany and India.    
+We have collected useful insights by not only conducting farmer interviews but also participating in field activities together with farmers!    
 
-1. Sahyadri farms, a Unicorn Farmer_Producer company (FPC), Nashik India. April 2022    
+
+Below is the list of farms and data collected,
+1. ***Sahyadri farms, a Unicorn Farmer_Producer company (FPC), Nashik India. April 2022***    
     - https://www.sahyadrifarms.com/      
 
-1. Hydroponic farming, Anirit Urban Agrofood,Nashik India. April 2022    
-    - https://www.aniriturbanagro.com/   
+1. ***Hydroponic farming, Anirit Urban Agrofood,Nashik India. April 2022***    
+    - https://www.aniriturbanagro.com/    
+    - 'Anirit Urban Agrofood' gave us a wonderful opportunity to visit their state-of-the-art hydroponic facility in Nashik India.    
+    - Their site manager explains to us the setup and working model of the hydroponic greenhouses. 
 
-1. Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. June 2022     
+
+1. ***Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. June 2022***     
     - https://www.hollerhof-erzgebirge.de/   
 
 
