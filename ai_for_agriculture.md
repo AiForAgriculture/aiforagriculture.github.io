@@ -125,7 +125,15 @@ Below is the list of farms and data collected,
     - https://www.aniriturbanagro.com/    
     - 'Anirit Urban Agrofood' gave us a wonderful opportunity to visit their state-of-the-art hydroponic facility in Nashik India.    
     - Their site manager explains to us the setup and working model of the hydroponic greenhouses. 
-
+    - Further reading,
+        - https://hydropros.com/blogs/growers-corner/6-types-hydroponic-systems    
+        - https://hydroponicway.com/get-growing-with-coco-coir-611d316303e3  
+        - https://www.bhg.com/gardening/flowers/perennials/staking-and-training-perennials/  
+        - https://thisismygarden.com/2021/06/how-to-tie-up-tomato-plants/  
+        - https://bonnieplants.com/blogs/garden-fundamentals/string-trellis-for-tomatoes-variations  
+        - https://growfully.com/true-leaves/  
+        - https://whyfarmit.com/net-pots/#:~:text=Square%20net%20pots%20tend%20to,growing%20tray%20or%20hydroponic%20system.  
+        - https://www.420magazine.com/community/threads/should-i-choose-a-round-or-square-pot-for-my-plants.71086/  
 
 1. ***Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. June 2022***     
     - https://www.hollerhof-erzgebirge.de/   
