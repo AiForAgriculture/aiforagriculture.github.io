@@ -125,6 +125,19 @@ Below is the list of farms and data collected,
     - https://www.aniriturbanagro.com/    
     - 'Anirit Urban Agrofood' gave us a wonderful opportunity to visit their state-of-the-art hydroponic facility in Nashik India.    
     - Their site manager explains to us the setup and working model of the hydroponic greenhouses. 
+    - [![AniritUrbanAgrofood!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\AniritUrbanAgrofood.JPG)](https://www.youtube.com/watch?v=tvmng4scpTM)   
+    - Video Chapters:
+            [0:00](https://www.youtube.com/watch?v=tvmng4scpTM&t=0s) Hydroponic farming | Anirit Urban Agrofood | Nashik India  
+            [0:59](https://www.youtube.com/watch?v=tvmng4scpTM&t=59s) Tomato clipping | Farm supervisor explains the clipping steps   
+            [1:50](https://www.youtube.com/watch?v=tvmng4scpTM&t=110s) Nutrient film technique (NFT) hydroponic technique greenhouse   
+            [3:30](https://www.youtube.com/watch?v=tvmng4scpTM&t=210s) Coco peat hydroponic technique greenhouse  
+            [5:54](https://www.youtube.com/watch?v=tvmng4scpTM&t=354s) Coco peat bricks  
+            [6:09](https://www.youtube.com/watch?v=tvmng4scpTM&t=369s) STRING TRELLIS clipping for plant support   
+            [6:34](https://www.youtube.com/watch?v=tvmng4scpTM&t=394s) Leafy plants seed germination and Seedlings  
+            [6:57](https://www.youtube.com/watch?v=tvmng4scpTM&t=417s) Square vs Circle pots?  
+            [7:10](https://www.youtube.com/watch?v=tvmng4scpTM&t=430s) Make In India - Solar Insect Trap!  
+            [9:18](https://www.youtube.com/watch?v=tvmng4scpTM&t=558s) Important chars for grading and processing unit.    
+
     - Further reading,
         - https://hydropros.com/blogs/growers-corner/6-types-hydroponic-systems    
         - https://hydroponicway.com/get-growing-with-coco-coir-611d316303e3  
