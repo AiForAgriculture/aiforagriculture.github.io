@@ -118,15 +118,41 @@ We have collected useful insights by not only conducting farmer interviews but a
 
 
 Below is the list of farms and data collected,
-1. ***Sahyadri farms, a Unicorn Farmer_Producer company (FPC), Nashik India. April 2022***    
-    - https://www.sahyadrifarms.com/      
+
+1. ***Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. June 2022***     
+    - https://www.hollerhof-erzgebirge.de/   
+    - In this video we visited the “Hollerhof”, a beautiful small family managed organic farm in countryside of Hartmannsdorf-Reichenau Germany.  
+    - It was a refreshing and hands-on learning experience for me.  
+    - Both Tobias and Eva are wonderful hosts and their property is even more beautiful!  
+    - They have utilised their countryside property very neatly, allowing them to experiment with many different varieties of crops.   
+    - They have a portion of the farm for mixed vegetable beds, potatoes, strawberries and a small greenhouse for tomatoes.   
+    - I was able to help in removing weeds from the vegetable garden, by hand as well as using a few instruments.   
+    - I really enjoyed helping them in the clipping and pruning activity for tomato plants in a small greenhouse.     
+
+
+    - Video Chapters:   
+        [00:19](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=19s) Tomato greenhouse  
+        [00:51](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=51s) Tomato Bamboo Stakes String Trellis    
+        [01:50](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=110s) Tomato Clipping with string  
+        [03:45](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=225s) Weed removed from open farm fields  
+        [04:56](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=296s) Floriculture, Peony Plant (Pfingstrosen)  
+        [07:05](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=425s) Jerusalem artichoke (Topinambur), grows to wield  
+        [08:30](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=510s) Coriander ready for harvest   
+        [09:10](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=550s) Zucchini 2 months old   
+
+
+    - Further reading,  
+         - https://www.milkwood.net/2014/12/07/string-climbing-tomatoes-two-methods/  
+         - https://www.justagric.com/how-to-string-up-tomatoes/  
+     
 
 1. ***Hydroponic farming, Anirit Urban Agrofood,Nashik India. April 2022***    
     - https://www.aniriturbanagro.com/    
+    - In this video 'Anirit Urban Agrofood' gave us a wonderful opportunity to visit their state-of-the-art hydroponic facility in Nashik India in April 2022.    
     - 'Anirit Urban Agrofood' gave us a wonderful opportunity to visit their state-of-the-art hydroponic facility in Nashik India.    
-    - Their site manager explains to us the setup and working model of the hydroponic greenhouses. 
-    - [![AniritUrbanAgrofood!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\AniritUrbanAgrofood.JPG)](https://www.youtube.com/watch?v=tvmng4scpTM)   
-    - Video Chapters:
+    - Their site manager explains to us the setup and working model of the hydroponic greenhouses.  
+    - [![AniritUrbanAgrofood!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\AniritUrbanAgrofood.JPG)](https://www.youtube.com/watch?v=tvmng4scpTM)    
+    - Video Chapters:  
             [0:00](https://www.youtube.com/watch?v=tvmng4scpTM&t=0s) Hydroponic farming | Anirit Urban Agrofood | Nashik India  
             [0:59](https://www.youtube.com/watch?v=tvmng4scpTM&t=59s) Tomato clipping | Farm supervisor explains the clipping steps   
             [1:50](https://www.youtube.com/watch?v=tvmng4scpTM&t=110s) Nutrient film technique (NFT) hydroponic technique greenhouse   
@@ -146,10 +172,12 @@ Below is the list of farms and data collected,
         - https://bonnieplants.com/blogs/garden-fundamentals/string-trellis-for-tomatoes-variations  
         - https://growfully.com/true-leaves/  
         - https://whyfarmit.com/net-pots/#:~:text=Square%20net%20pots%20tend%20to,growing%20tray%20or%20hydroponic%20system.  
-        - https://www.420magazine.com/community/threads/should-i-choose-a-round-or-square-pot-for-my-plants.71086/  
+        - https://www.420magazine.com/community/threads/should-i-choose-a-round-or-square-pot-for-my-plants.71086/   
 
-1. ***Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. June 2022***     
-    - https://www.hollerhof-erzgebirge.de/   
+  
+  1. ***Sahyadri farms, a 'Unicorn' Farmer-Producer-Company (FPC), Nashik India. April 2022***    
+    - https://www.sahyadrifarms.com/   
+
 
 
 ----
