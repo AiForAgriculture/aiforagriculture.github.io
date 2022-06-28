@@ -11,27 +11,25 @@
     - [Brief example of Discovery Phase](#example_Discovery_Phase)
 - [‘GREEN’, AI-Backed Home Gardens](#green)
 - [Farm Visits](#Farm_Visits)
-- [Current research-in-progress case studies](#two)
+    - [Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany.](#Hollerhof)
+    - [Hydroponic farming, Anirit Urban Agrofood,Nashik India.](#AniritUrbanAgrofood)
+    - [Sahyadri farms, a 'Unicorn' Farmer-Producer-Company (FPC), Nashik India.](#SahyadriFarms)
+- [Current research-in-progress case studies](#two) 
     - [1. Image based crops readiness for Potato farm](#Potato_farm)
     - [2. Sensors for collecting data](#Sensors)
     - [3. Greenhouse for Organic farming](#Greenhouse_Organic_farming)
     - [4. Home Garden System](#Home_garden_system)
     - [5. Vertical Farming, [William Cheng]](#vertical_farming)
     - [6. Farm data collection for insurance claim](#farm_data_insurance_claim)   
-    - [7. Research Subject, Volunteer Name](#new_case_study)
-
-- [Blog](#Competitive_Analysis)
-    - [General Competitive Analysis](#Competitive_Analysis)
-    - [Competitive Analysis using “Business Model” Canvas](#Business_Model_Canvas)
-    - [Competitive List](#Competitive_List)
-    - [Farming Facts of Germany](#Farming-Facts-of-Germany)
-    - [Story Telling using Plant data](#Story_Telling)
-    - [‘Agtech’ in German Startup ecosystem](#Agtech)
-
-
-    - [Further Reading](#Further_Reading)
-
-- [FAQ](#FAQ)
+    - [7. Research Subject, Volunteer Name](#new_case_study)   
+- [Blog](#Competitive_Analysis)   
+    - [General Competitive Analysis](#Competitive_Analysis)  
+    - [Competitive Analysis using “Business Model” Canvas](#Business_Model_Canvas)  
+    - [Competitive List](#Competitive_List)  
+    - [Farming Facts of Germany](#Farming-Facts-of-Germany)   
+    - [Story Telling using Plant data](#Story_Telling)    
+    - [‘Agtech’ in German Startup ecosystem](#Agtech)    
+    - [Further Reading](#Further_Reading)   
 
 ---
 
@@ -117,8 +115,8 @@ During our product research, we visited several farms in Germany and India.
 We have collected useful insights by not only conducting farmer interviews but also participating in field activities together with farmers!    
 
 
-Below is the list of farms and data collected,
-
+Below is the list of farms and data collected,   
+<a name="Hollerhof"></a>
 1. ***Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. June 2022***     
     - https://www.hollerhof-erzgebirge.de/   
     - In this video we visited the “Hollerhof”, a beautiful small family managed organic farm in countryside of Hartmannsdorf-Reichenau Germany.  
@@ -127,8 +125,9 @@ Below is the list of farms and data collected,
     - They have utilised their countryside property very neatly, allowing them to experiment with many different varieties of crops.   
     - They have a portion of the farm for mixed vegetable beds, potatoes, strawberries and a small greenhouse for tomatoes.   
     - I was able to help in removing weeds from the vegetable garden, by hand as well as using a few instruments.   
-    - I really enjoyed helping them in the clipping and pruning activity for tomato plants in a small greenhouse.     
+    - I really enjoyed helping them in the clipping and pruning activity for tomato plants in a small greenhouse.      
 
+    - [![AniritUrbanAgrofood!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Hollerhof.JPG)](https://www.youtube.com/watch?v=tvmng4scpTM)    
 
     - Video Chapters:   
         [00:19](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=19s) Tomato greenhouse  
@@ -146,6 +145,7 @@ Below is the list of farms and data collected,
          - https://www.justagric.com/how-to-string-up-tomatoes/  
      
 
+<a name="AniritUrbanAgrofood"></a>
 1. ***Hydroponic farming, Anirit Urban Agrofood,Nashik India. April 2022***    
     - https://www.aniriturbanagro.com/    
     - In this video 'Anirit Urban Agrofood' gave us a wonderful opportunity to visit their state-of-the-art hydroponic facility in Nashik India in April 2022.    
@@ -175,6 +175,7 @@ Below is the list of farms and data collected,
         - https://www.420magazine.com/community/threads/should-i-choose-a-round-or-square-pot-for-my-plants.71086/   
 
   
+  <a name="SahyadriFarms"></a>
   1. ***Sahyadri farms, a 'Unicorn' Farmer-Producer-Company (FPC), Nashik India. April 2022***    
     - https://www.sahyadrifarms.com/   
 
