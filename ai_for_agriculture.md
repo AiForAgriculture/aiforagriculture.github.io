@@ -140,10 +140,26 @@ Below is the list of farms and data collected,
         [08:30](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=510s) Coriander ready for harvest   
         [09:10](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=550s) Zucchini 2 months old   
 
+    - ***Part 2***   
+    - [![AniritUrbanAgrofood!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Hollerhof2.JPG)](https://youtu.be/_glL2ffiO94)    
+
+    - Video Chapters:   
+        00:30 Garlic farming experiment  
+        01:10 Cauliflower growing stages  
+        02:24 Kohlrabi   
+        03:21 Salads and Herbs  
+        06:16 The Spargel or Asparagus   
+        07:30 Strawberries and Mulching   
+        08:52 Fruits and Berries  
+        11:27 My sleeping arrangements!  
 
     - Further reading,  
          - https://www.milkwood.net/2014/12/07/string-climbing-tomatoes-two-methods/  
          - https://www.justagric.com/how-to-string-up-tomatoes/  
+         - https://www.webgardner.com/vegetables/cauliflower-growing-stages/  
+         - https://www.wikihow.com/Grow-Kohlrabi  
+         - https://www.rhs.org.uk/soil-composts-mulches/mulch   
+         - https://www.rhs.org.uk/vegetables/asparagus/grow-your-own   
      
 
 <a name="AniritUrbanAgrofood"></a>
