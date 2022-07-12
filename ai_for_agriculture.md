@@ -116,7 +116,16 @@ We have collected useful insights by not only conducting farmer interviews but a
 
 
 Below is the list of farms and data collected,   
-<a name="Hollerhof"></a>
+
+<a name="Sonndorf"></a>   
+1. ***Community Agriculture, Sonndorf,  Germany. June 2022***       
+    - In this type of Community Agriculture, farmers have members or subscribers, who are making monthly payments to farmers in return to get a box of produce from the farm.  
+    - Members do not necessarily have to contribute to the farming activity.  
+    - After discussion with the farmer we realize that he is really short of helping hand and would love to have members who will also take part in agricultural activity.   
+    - [![Sonndorf!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Sonndorf.JPG)](https://youtu.be/WeJ8HEcUYMo)    
+
+
+<a name="Hollerhof"></a>   
 1. ***Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. June 2022***     
     - https://www.hollerhof-erzgebirge.de/   
     - In this video we visited the “Hollerhof”, a beautiful small family managed organic farm in countryside of Hartmannsdorf-Reichenau Germany.  
