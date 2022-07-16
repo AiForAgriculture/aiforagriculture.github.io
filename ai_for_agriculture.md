@@ -11,6 +11,8 @@
     - [Brief example of Discovery Phase](#example_Discovery_Phase)
 - [‘GREEN’, AI-Backed Home Gardens](#green)
 - [Farm Visits](#Farm_Visits)
+    - [Community Agriculture, Passau,  Germany. June 2022](#Passau)
+    - [Community Agriculture, Sonndorf,  Germany. June 2022](#Sonndorf)
     - [Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany.](#Hollerhof)
     - [Hydroponic farming, Anirit Urban Agrofood,Nashik India.](#AniritUrbanAgrofood)
     - [Sahyadri farms, a 'Unicorn' Farmer-Producer-Company (FPC), Nashik India.](#SahyadriFarms)
@@ -117,12 +119,38 @@ We have collected useful insights by not only conducting farmer interviews but a
 
 Below is the list of farms and data collected,   
 
+<a name="Passau"></a>   
+1. ***Community Agriculture, Passau,  Germany. June 2022***       
+    - Yet another Community Agriculture near Passau. 
+    - The farm is own by no one as farmer is passed away and have no one to take care of it. Hence community agriculture ia working out well here. 
+    - This community got roughly 80 members or subscribers, who are making monthly payments to organizer in return to get a box of produce from the farm. 
+    - [![passau!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\passau.JPG)](https://youtu.be/lzyPImTcxt0)    
+    - Video Chapters:
+        00:38 Weed removing by hand  
+        00:45 The Community  Office | Members meet weekly to share produce.  
+        01:03 Glass Greenhouse | For all season produce.  
+        01:16 String Climbing | To support plants as per need.  
+        02:29 Mulching with grass clippings | Reduce watering and weeding  
+        02:43 Polyhouse | For summer produce only.  
+
+
 <a name="Sonndorf"></a>   
 1. ***Community Agriculture, Sonndorf,  Germany. June 2022***       
     - In this type of Community Agriculture, farmers have members or subscribers, who are making monthly payments to farmers in return to get a box of produce from the farm.  
     - Members do not necessarily have to contribute to the farming activity.  
     - After discussion with the farmer we realize that he is really short of helping hand and would love to have members who will also take part in agricultural activity.   
     - [![Sonndorf!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Sonndorf.JPG)](https://youtu.be/WeJ8HEcUYMo)    
+    - Video Chapters
+        00:36 Dairy Farming 15 to 20 cows  
+        01:26 Cow milking modern facilities  
+        02:17 Milk storage unit   
+        02:55 Small Polyhouse  
+        03:53 Heirloom Tomato  
+        04:38 T-Post String Trellis  
+        05:03 Paprika  
+        05:34 Brinjal  
+        06:33 Cabbage  
+        07:47 Mulching with Wool  
 
 
 <a name="Hollerhof"></a>   
