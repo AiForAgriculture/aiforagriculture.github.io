@@ -11,10 +11,11 @@
     - [Brief example of Discovery Phase](#example_Discovery_Phase)
 - [‘GREEN’, AI-Backed Home Gardens](#green)
 - [Farm Visits](#Farm_Visits)
-    - [Community Agriculture, Passau,  Germany. June 2022](#Passau)
-    - [Community Agriculture, Sonndorf,  Germany. June 2022](#Sonndorf)
-    - [Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany.](#Hollerhof)
     - [Hydroponic farming, Anirit Urban Agrofood,Nashik India.](#AniritUrbanAgrofood)
+    - [Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany.](#Hollerhof)
+    - [Community Agriculture, Sonndorf,  Germany. June 2022](#Sonndorf)
+    - [Community Agriculture, Passau,  Germany. June 2022](#Passau)
+    - [Organic Wheat Farming, Amberg, Germany. July 2022](#Amberg)
     - [Sahyadri farms, a 'Unicorn' Farmer-Producer-Company (FPC), Nashik India.](#SahyadriFarms)
 - [Current research-in-progress case studies](#two) 
     - [1. Image based crops readiness for Potato farm](#Potato_farm)
@@ -111,7 +112,7 @@ This prototype was designed after conducting several user interviews, for one of
 
 ----   
 
-<a name="Farm_Visits"></a>
+<a name="Farm_Visits"></a>    
 # Farm Visits.     
 During our product research, we visited several farms in Germany and India.    
 We have collected useful insights by not only conducting farmer interviews but also participating in field activities together with farmers!    
@@ -119,85 +120,6 @@ We have collected useful insights by not only conducting farmer interviews but a
 
 Below is the list of farms and data collected,   
 
-<a name="Passau"></a>   
-1. ***Community Agriculture, Passau,  Germany. June 2022***       
-    - Yet another Community Agriculture near Passau. 
-    - The farm is own by no one as farmer is passed away and have no one to take care of it. Hence community agriculture ia working out well here. 
-    - This community got roughly 80 members or subscribers, who are making monthly payments to organizer in return to get a box of produce from the farm. 
-    - [![passau!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\passau.JPG)](https://youtu.be/lzyPImTcxt0)    
-    - Video Chapters:
-        00:38 Weed removing by hand  
-        00:45 The Community  Office | Members meet weekly to share produce.  
-        01:03 Glass Greenhouse | For all season produce.  
-        01:16 String Climbing | To support plants as per need.  
-        02:29 Mulching with grass clippings | Reduce watering and weeding  
-        02:43 Polyhouse | For summer produce only.  
-
-
-<a name="Sonndorf"></a>   
-1. ***Community Agriculture, Sonndorf,  Germany. June 2022***       
-    - In this type of Community Agriculture, farmers have members or subscribers, who are making monthly payments to farmers in return to get a box of produce from the farm.  
-    - Members do not necessarily have to contribute to the farming activity.  
-    - After discussion with the farmer we realize that he is really short of helping hand and would love to have members who will also take part in agricultural activity.   
-    - [![Sonndorf!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Sonndorf.JPG)](https://youtu.be/WeJ8HEcUYMo)    
-    - Video Chapters
-        00:36 Dairy Farming 15 to 20 cows  
-        01:26 Cow milking modern facilities  
-        02:17 Milk storage unit   
-        02:55 Small Polyhouse  
-        03:53 Heirloom Tomato  
-        04:38 T-Post String Trellis  
-        05:03 Paprika  
-        05:34 Brinjal  
-        06:33 Cabbage  
-        07:47 Mulching with Wool  
-
-
-<a name="Hollerhof"></a>   
-1. ***Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. June 2022***     
-    - https://www.hollerhof-erzgebirge.de/   
-    - In this video we visited the “Hollerhof”, a beautiful small family managed organic farm in countryside of Hartmannsdorf-Reichenau Germany.  
-    - It was a refreshing and hands-on learning experience for me.  
-    - Both Tobias and Eva are wonderful hosts and their property is even more beautiful!  
-    - They have utilised their countryside property very neatly, allowing them to experiment with many different varieties of crops.   
-    - They have a portion of the farm for mixed vegetable beds, potatoes, strawberries and a small greenhouse for tomatoes.   
-    - I was able to help in removing weeds from the vegetable garden, by hand as well as using a few instruments.   
-    - I really enjoyed helping them in the clipping and pruning activity for tomato plants in a small greenhouse.      
-
-    - ***Part 1***   
-    - [![AniritUrbanAgrofood!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Hollerhof1.JPG)](https://www.youtube.com/watch?v=tvmng4scpTM)    
-
-    - Video Chapters:   
-        [00:19](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=19s) Tomato greenhouse  
-        [00:51](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=51s) Tomato Bamboo Stakes String Trellis    
-        [01:50](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=110s) Tomato Clipping with string  
-        [03:45](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=225s) Weed removed from open farm fields  
-        [04:56](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=296s) Floriculture, Peony Plant (Pfingstrosen)  
-        [07:05](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=425s) Jerusalem artichoke (Topinambur), grows to wield  
-        [08:30](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=510s) Coriander ready for harvest   
-        [09:10](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=550s) Zucchini 2 months old   
-
-    - ***Part 2***   
-    - [![AniritUrbanAgrofood!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Hollerhof2.JPG)](https://youtu.be/_glL2ffiO94)    
-
-    - Video Chapters:   
-        00:30 Garlic farming experiment  
-        01:10 Cauliflower growing stages  
-        02:24 Kohlrabi   
-        03:21 Salads and Herbs  
-        06:16 The Spargel or Asparagus   
-        07:30 Strawberries and Mulching   
-        08:52 Fruits and Berries  
-        11:27 My sleeping arrangements!  
-
-    - Further reading,  
-         - https://www.milkwood.net/2014/12/07/string-climbing-tomatoes-two-methods/  
-         - https://www.justagric.com/how-to-string-up-tomatoes/  
-         - https://www.webgardner.com/vegetables/cauliflower-growing-stages/  
-         - https://www.wikihow.com/Grow-Kohlrabi  
-         - https://www.rhs.org.uk/soil-composts-mulches/mulch   
-         - https://www.rhs.org.uk/vegetables/asparagus/grow-your-own   
-     
 
 <a name="AniritUrbanAgrofood"></a>
 1. ***Hydroponic farming, Anirit Urban Agrofood,Nashik India. April 2022***    
@@ -228,7 +150,98 @@ Below is the list of farms and data collected,
         - https://whyfarmit.com/net-pots/#:~:text=Square%20net%20pots%20tend%20to,growing%20tray%20or%20hydroponic%20system.  
         - https://www.420magazine.com/community/threads/should-i-choose-a-round-or-square-pot-for-my-plants.71086/   
 
-  
+
+<a name="Hollerhof"></a>   
+1. ***Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. June 2022***     
+    - https://www.hollerhof-erzgebirge.de/   
+    - In this video we visited the “Hollerhof”, a beautiful small family managed organic farm in countryside of Hartmannsdorf-Reichenau Germany.  
+    - It was a refreshing and hands-on learning experience for me.  
+    - Both Tobias and Eva are wonderful hosts and their property is even more beautiful!  
+    - They have utilised their countryside property very neatly, allowing them to experiment with many different varieties of crops.   
+    - They have a portion of the farm for mixed vegetable beds, potatoes, strawberries and a small greenhouse for tomatoes.   
+    - I was able to help in removing weeds from the vegetable garden, by hand as well as using a few instruments.   
+    - I really enjoyed helping them in the clipping and pruning activity for tomato plants in a small greenhouse.      
+
+    - ***Part 1***   
+    - [![Hollerhof!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Hollerhof1.JPG)](https://www.youtube.com/watch?v=tvmng4scpTM)    
+
+    - Video Chapters:   
+        [00:19](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=19s) Tomato greenhouse  
+        [00:51](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=51s) Tomato Bamboo Stakes String Trellis    
+        [01:50](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=110s) Tomato Clipping with string  
+        [03:45](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=225s) Weed removed from open farm fields  
+        [04:56](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=296s) Floriculture, Peony Plant (Pfingstrosen)  
+        [07:05](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=425s) Jerusalem artichoke (Topinambur), grows to wield  
+        [08:30](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=510s) Coriander ready for harvest   
+        [09:10](https://www.youtube.com/watch?v=EXE94PcWZrU&list=PLajIi55-KLYfP_A3iMaMOSURxbFvIeN9d&index=2&t=550s) Zucchini 2 months old   
+
+    - ***Part 2***   
+    - [![Hollerhof!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Hollerhof2.JPG)](https://youtu.be/_glL2ffiO94)    
+
+    - Video Chapters:     
+        00:30 Garlic farming experiment  
+        01:10 Cauliflower growing stages  
+        02:24 Kohlrabi   
+        03:21 Salads and Herbs  
+        06:16 The Spargel or Asparagus   
+        07:30 Strawberries and Mulching   
+        08:52 Fruits and Berries  
+        11:27 My sleeping arrangements!  
+
+    - Further reading,  
+         - https://www.milkwood.net/2014/12/07/string-climbing-tomatoes-two-methods/  
+         - https://www.justagric.com/how-to-string-up-tomatoes/  
+         - https://www.webgardner.com/vegetables/cauliflower-growing-stages/  
+         - https://www.wikihow.com/Grow-Kohlrabi  
+         - https://www.rhs.org.uk/soil-composts-mulches/mulch   
+         - https://www.rhs.org.uk/vegetables/asparagus/grow-your-own  
+
+<a name="Sonndorf"></a>    
+1. ***Community Agriculture, Sonndorf,  Germany. June 2022***       
+    - In this type of Community Agriculture, farmers have members or subscribers, who are making monthly payments to farmers in return to get a box of produce from the farm.  
+    - Members do not necessarily have to contribute to the farming activity.  
+    - After discussion with the farmer we realize that he is really short of helping hand and would love to have members who will also take part in agricultural activity.   
+    - [![Sonndorf!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Sonndorf.JPG)](https://youtu.be/WeJ8HEcUYMo)    
+    - Video Chapters:   
+        00:36 Dairy Farming 15 to 20 cows   
+        01:26 Cow milking modern facilities   
+        02:17 Milk storage unit    
+        02:55 Small Polyhouse   
+        03:53 Heirloom Tomato   
+        04:38 T-Post String Trellis   
+        05:03 Paprika   
+        05:34 Brinjal   
+        06:33 Cabbage   
+        07:47 Mulching with Wool   
+
+<a name="Passau"></a>    
+1. ***Community Agriculture, Passau,  Germany. June 2022***       
+    - Yet another Community Agriculture near Passau.  
+    - The farm is own by no one as farmer is passed away and have no one to take care of it. Hence community agriculture ia working out well here.  
+    - This community got roughly 80 members or subscribers, who are making monthly payments to organizer in return to get a box of produce from the farm.  
+    - [![passau!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\passau.JPG)](https://youtu.be/lzyPImTcxt0)     
+    - Video Chapters:   
+        00:38 Weed removing by hand   
+        00:45 The Community  Office | Members meet weekly to share produce.   
+        01:03 Glass Greenhouse | For all season produce.   
+        01:16 String Climbing | To support plants as per need.  
+        02:29 Mulching with grass clippings | Reduce watering and weeding   
+        02:43 Polyhouse | For summer produce only.   
+
+<a name="Amberg"></a>    
+1. ***Organic Wheat Farming, Amberg, Germany. July 2022***       
+    - Visited this lush yellow beautyful farm early morning for 'the action day'.  
+    - A planed day where community supports farmer in some farming activity. Inreturn farmers serve them nice home made breakfast.   
+    - He also uses this opportunity to advertise his organic produce and farm shop.   
+    - [![Amberg!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\amberg.JPG)](https://youtu.be/MEb-ZOKRWaA)      
+    - Video Chapters:   
+        0:00 Organic Wheat Farming | Amberg | Germany   
+        0:22 Remove extra long wheat grass   
+        0:54 Working on the wheat fields   
+        1:10 13 types of grains found in field   
+        1:57 Introducing the other parts of field   
+ 
+       
   <a name="SahyadriFarms"></a>
   1. ***Sahyadri farms, a 'Unicorn' Farmer-Producer-Company (FPC), Nashik India. April 2022***    
     - https://www.sahyadrifarms.com/   
