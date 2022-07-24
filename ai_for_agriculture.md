@@ -11,12 +11,13 @@
     - [Brief example of Discovery Phase](#example_Discovery_Phase)
 - [‘GREEN’, AI-Backed Home Gardens](#green)
 - [Farm Visits](#Farm_Visits)
-    - [Hydroponic farming, Anirit Urban Agrofood,Nashik India.](#AniritUrbanAgrofood)
-    - [Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany.](#Hollerhof)
-    - [Community Agriculture, Sonndorf,  Germany. June 2022](#Sonndorf)
-    - [Community Agriculture, Passau,  Germany. June 2022](#Passau)
-    - [Organic Wheat Farming, Amberg, Germany. July 2022](#Amberg)
-    - [Sahyadri farms, a 'Unicorn' Farmer-Producer-Company (FPC), Nashik India.](#SahyadriFarms)
+    - [Sahyadri farms, a 'Unicorn' Farmer-Producer-Company (FPC), Nashik India.](#SahyadriFarms)  
+    - [Hydroponic farming, Anirit Urban Agrofood,Nashik India. April 2022](#AniritUrbanAgrofood)  
+    - [Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. April 2022](#Hollerhof)  
+    - [Community Agriculture, Sonndorf,  Germany. June 2022](#Sonndorf)  
+    - [Community Agriculture, Passau,  Germany. June 2022](#Passau)  
+    - [Organic Wheat Farming, Amberg, Germany. July 2022](#Amberg)  
+    - [ISKCON Temple Farm, Jandelsbrunn, Germany. July 2022](#Jandelsbrunn)  
 - [Current research-in-progress case studies](#two) 
     - [1. Image based crops readiness for Potato farm](#Potato_farm)
     - [2. Sensors for collecting data](#Sensors)
@@ -120,6 +121,10 @@ We have collected useful insights by not only conducting farmer interviews but a
 
 Below is the list of farms and data collected,   
 
+
+<a name="SahyadriFarms"></a>
+1. ***Sahyadri farms, a 'Unicorn' Farmer-Producer-Company (FPC), Nashik India. April 2022***    
+    - https://www.sahyadrifarms.com/   
 
 <a name="AniritUrbanAgrofood"></a>
 1. ***Hydroponic farming, Anirit Urban Agrofood,Nashik India. April 2022***    
@@ -242,9 +247,28 @@ Below is the list of farms and data collected,
         1:57 Introducing the other parts of field   
  
        
-  <a name="SahyadriFarms"></a>
-  1. ***Sahyadri farms, a 'Unicorn' Farmer-Producer-Company (FPC), Nashik India. April 2022***    
-    - https://www.sahyadrifarms.com/   
+<a name="Jandelsbrunn "></a>    
+1. ***ISKCON Temple Farm, Jandelsbrunn, Germany. July 2022***       
+    - Visited this  beautifully maintained temple garden.  
+    - We are able to connect to the gardener, who is maintaining the entire field by himself.   
+    - In video you will see he not only carefully arranges the farm field but also neatly kept the tools and workshop.   
+    - We feel blessed to have the opportunity to work at this holy place!  
+    - [![Jandelsbrunn!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\sihachalam.JPG)](https://youtu.be/7atjs3JaTIM)        
+    - Video Chapters:  
+        0:00 ISKCON Temple Farm | Jandelsbrunn | Germany  
+        0:30 Removing weed by hand tools of course  
+        0:43 Johannisbeere Plant Cleaning up the plant bed.  
+        0:56 Tulasi brindaban! Glass greenhouse for spatial care.  
+        1:30 Polyhouse For summer corps.  
+        2:03 Plant care Remove unwanted growth shoots etc.  
+        2:32 Mulching  Paper Soil Moisture Retention and weed control  
+        2:42 Glass greenhouse For all season corps.   
+        3:02 Lotus  
+        4:21 Heating for Greenhouse Hot water flowing through the pipes   
+        4:39 Germination nursery For germinating healthy plants   
+        5:45 Sand beds To keep plants warm  
+        7:12 Farming tools Kept very clean and neat  
+        8:35 Net covers To keep bugs away without using any chemicals  
 
 
 
