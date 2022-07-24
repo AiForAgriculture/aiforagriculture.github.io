@@ -8,16 +8,19 @@
 
 - [What are we doing now? "Design Thinking"](#one)
     - [Steps in the Discovery phase](#Discovery_phase)
-    - [Brief example of Discovery Phase](#example_Discovery_Phase)
-- [‘GREEN’, AI-Backed Home Gardens](#green)
+    - [Brief example of Discovery Phase](#example_Discovery_Phase)   
+
+- [‘GREEN’, AI-Backed Home Gardens](#green)  
+
 - [Farm Visits](#Farm_Visits)
-    - [Sahyadri farms, a 'Unicorn' Farmer-Producer-Company (FPC), Nashik India.](#SahyadriFarms)  
-    - [Hydroponic farming, Anirit Urban Agrofood,Nashik India. April 2022](#AniritUrbanAgrofood)  
-    - [Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. April 2022](#Hollerhof)  
-    - [Community Agriculture, Sonndorf,  Germany. June 2022](#Sonndorf)  
-    - [Community Agriculture, Passau,  Germany. June 2022](#Passau)  
-    - [Organic Wheat Farming, Amberg, Germany. July 2022](#Amberg)  
-    - [ISKCON Temple Farm, Jandelsbrunn, Germany. July 2022](#Jandelsbrunn)  
+    - [1. Sahyadri farms, a 'Unicorn' Farmer-Producer-Company (FPC), Nashik India.](#SahyadriFarms)  
+    - [2. Hydroponic farming, Anirit Urban Agrofood,Nashik India. April 2022](#AniritUrbanAgrofood)  
+    - [3. Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. April 2022](#Hollerhof)  
+    - [4. Community Agriculture, Sonndorf,  Germany. June 2022](#Sonndorf)  
+    - [5. Community Agriculture, Passau,  Germany. June 2022](#Passau)  
+    - [6. Organic Wheat Farming, Amberg, Germany. July 2022](#Amberg)  
+    - [7. ISKCON Temple Farm, Jandelsbrunn, Germany. July 2022](#Jandelsbrunn)    
+
 - [Current research-in-progress case studies](#two) 
     - [1. Image based crops readiness for Potato farm](#Potato_farm)
     - [2. Sensors for collecting data](#Sensors)
@@ -25,7 +28,8 @@
     - [4. Home Garden System](#Home_garden_system)
     - [5. Vertical Farming, [William Cheng]](#vertical_farming)
     - [6. Farm data collection for insurance claim](#farm_data_insurance_claim)   
-    - [7. Research Subject, Volunteer Name](#new_case_study)   
+    - [7. Research Subject, Volunteer Name](#new_case_study)     
+
 - [Blog](#Competitive_Analysis)   
     - [General Competitive Analysis](#Competitive_Analysis)  
     - [Competitive Analysis using “Business Model” Canvas](#Business_Model_Canvas)  
@@ -127,7 +131,7 @@ Below is the list of farms and data collected,
     - https://www.sahyadrifarms.com/   
 
 <a name="AniritUrbanAgrofood"></a>
-1. ***Hydroponic farming, Anirit Urban Agrofood,Nashik India. April 2022***    
+2. ***Hydroponic farming, Anirit Urban Agrofood,Nashik India. April 2022***    
     - https://www.aniriturbanagro.com/    
     - In this video 'Anirit Urban Agrofood' gave us a wonderful opportunity to visit their state-of-the-art hydroponic facility in Nashik India in April 2022.    
     - 'Anirit Urban Agrofood' gave us a wonderful opportunity to visit their state-of-the-art hydroponic facility in Nashik India.    
@@ -157,7 +161,7 @@ Below is the list of farms and data collected,
 
 
 <a name="Hollerhof"></a>   
-1. ***Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. June 2022***     
+3. ***Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany. June 2022***     
     - https://www.hollerhof-erzgebirge.de/   
     - In this video we visited the “Hollerhof”, a beautiful small family managed organic farm in countryside of Hartmannsdorf-Reichenau Germany.  
     - It was a refreshing and hands-on learning experience for me.  
@@ -202,7 +206,7 @@ Below is the list of farms and data collected,
          - https://www.rhs.org.uk/vegetables/asparagus/grow-your-own  
 
 <a name="Sonndorf"></a>    
-1. ***Community Agriculture, Sonndorf,  Germany. June 2022***       
+4. ***Community Agriculture, Sonndorf,  Germany. June 2022***       
     - In this type of Community Agriculture, farmers have members or subscribers, who are making monthly payments to farmers in return to get a box of produce from the farm.  
     - Members do not necessarily have to contribute to the farming activity.  
     - After discussion with the farmer we realize that he is really short of helping hand and would love to have members who will also take part in agricultural activity.   
@@ -220,7 +224,7 @@ Below is the list of farms and data collected,
         07:47 Mulching with Wool   
 
 <a name="Passau"></a>    
-1. ***Community Agriculture, Passau,  Germany. June 2022***       
+5. ***Community Agriculture, Passau,  Germany. June 2022***       
     - Yet another Community Agriculture near Passau.  
     - The farm is own by no one as farmer is passed away and have no one to take care of it. Hence community agriculture ia working out well here.  
     - This community got roughly 80 members or subscribers, who are making monthly payments to organizer in return to get a box of produce from the farm.  
@@ -234,7 +238,7 @@ Below is the list of farms and data collected,
         02:43 Polyhouse | For summer produce only.   
 
 <a name="Amberg"></a>    
-1. ***Organic Wheat Farming, Amberg, Germany. July 2022***       
+6. ***Organic Wheat Farming, Amberg, Germany. July 2022***       
     - Visited this lush yellow beautyful farm early morning for 'the action day'.  
     - A planed day where community supports farmer in some farming activity. Inreturn farmers serve them nice home made breakfast.   
     - He also uses this opportunity to advertise his organic produce and farm shop.   
@@ -248,7 +252,7 @@ Below is the list of farms and data collected,
  
        
 <a name="Jandelsbrunn "></a>    
-1. ***ISKCON Temple Farm, Jandelsbrunn, Germany. July 2022***       
+7. ***ISKCON Temple Farm, Jandelsbrunn, Germany. July 2022***       
     - Visited this  beautifully maintained temple garden.  
     - We are able to connect to the gardener, who is maintaining the entire field by himself.   
     - In video you will see he not only carefully arranges the farm field but also neatly kept the tools and workshop.   
