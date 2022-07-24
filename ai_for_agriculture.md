@@ -251,7 +251,7 @@ Below is the list of farms and data collected,
         1:57 Introducing the other parts of field   
  
        
-<a name="Jandelsbrunn "></a>    
+<a name="Jandelsbrunn"></a>    
 7. ***ISKCON Temple Farm, Jandelsbrunn, Germany. July 2022***       
     - Visited this  beautifully maintained temple garden.  
     - We are able to connect to the gardener, who is maintaining the entire field by himself.   
