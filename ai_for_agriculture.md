@@ -20,6 +20,7 @@
     - [5. Community Agriculture, Passau,  Germany. June 2022](#Passau)  
     - [6. Organic Wheat Farming, Amberg, Germany. July 2022](#Amberg)  
     - [7. ISKCON Temple Farm, Jandelsbrunn, Germany. July 2022](#Jandelsbrunn)    
+    - [8. Community Agriculture, Uffenheim, Germany. July 2022](#Uffenheim)    
 
 - [Current research-in-progress case studies](#two) 
     - [1. Image based crops readiness for Potato farm](#Potato_farm)
@@ -253,7 +254,7 @@ Below is the list of farms and data collected,
        
 <a name="Jandelsbrunn"></a>    
 7. ***ISKCON Temple Farm, Jandelsbrunn, Germany. July 2022***       
-    - Visited this  beautifully maintained temple garden.  
+    - Visited this beautifully maintained temple garden.  
     - We are able to connect to the gardener, who is maintaining the entire field by himself.   
     - In video you will see he not only carefully arranges the farm field but also neatly kept the tools and workshop.   
     - We feel blessed to have the opportunity to work at this holy place!  
@@ -274,8 +275,23 @@ Below is the list of farms and data collected,
         7:12 Farming tools Kept very clean and neat  
         8:35 Net covers To keep bugs away without using any chemicals  
 
-
-
+<a name="Uffenheim"></a>    
+8. ***Community Agriculture, Uffenheim, Germany. July 2022***       
+    - Visited this neatly organized Community Agriculture farming group in Uffenheim.   
+    - They got 6 polyhouses and few hecktors of open fields.  
+    - Participated in activities like weed removal and potato collection.   
+    - [![Uffenheim!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Uffenheim.JPG)](https://youtu.be/zNlCKkQrucY)         
+    - Video Chapters:   
+        0:00 Community Agriculture, Uffenheim, Germany   
+        0:43 All produce is organic   
+        0:54 Polyhouses Neatly planted for summer corps   
+        1:34 Eggplant Need support for standing up   
+        1:47 Mixed plant bed, they keep produce rotating every year    
+        2:29 Germination section For winter plants    
+        2:51 Playhouse heating Occasionally used in colds days in April   
+        3:37 Raised bed technique As a result less harm done to produces   
+        4:04 Here we collect potato's by hand   
+ 
 ----
 
 <a name="two"></a>
