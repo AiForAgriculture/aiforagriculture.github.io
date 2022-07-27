@@ -1,4 +1,6 @@
 
+# NOT USE ANYMORE
+
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200819_170408.jpg)
 
 
