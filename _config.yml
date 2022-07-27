@@ -3,5 +3,5 @@ logo: /assets/img/logo.jpg
 description: AIforAgriculture2020@gmail.com
 show_downloads: false
 google_analytics: true
-theme: jekyll-theme-leap-day
-# theme: jekyll-theme-minimal
+# theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
