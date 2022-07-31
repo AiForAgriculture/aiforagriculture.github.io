@@ -315,7 +315,7 @@ Below is the list of farms and data collected,
 
 <a name="Eichenzell"></a>    
  9. ***Permaculture Garden, Eichenzell, Germany***    
-    -     - [![Uffenheim!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Eichenzell.JPG)](https://youtu.be/sIMIx5eTuvQ)              
+    -  [![Eichenzell!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Eichenzell.JPG)](https://youtu.be/sIMIx5eTuvQ)              
     - In this visit we got the opportunity to learn about the Permaculture way of farming!    
     - The farmer Konstantin, was farming this way for six years.    
     - I am able to help in planting, stringing and weed removing activities. Along with learning the Permaculture way of living life.   
