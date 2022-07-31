@@ -6,7 +6,7 @@
 
 - We want to, 
   > - Enable farmer to use AI in farming methods so that farms organically become ***more productive*** with ***fewer resources and monitoring***. 
-  > - For ***interplanetary spices*** like us, this knowledge is not only USEFUL on this planet but on NEXT planets too!
+  > - For ***interplanetary spices*** like us, this knowledge is not only USEFUL on this planet but on NEXT planets too! ;-)
 
 
 - Follow us on [YouTube](https://www.youtube.com/channel/UCnqChxUetinozBSUvYec_ww/playlists), [Instagram](https://www.instagram.com/ai_for_agriculture/), [LinkedIn](https://www.linkedin.com/company/ai-for-agriculture)
