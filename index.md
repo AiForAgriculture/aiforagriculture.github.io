@@ -155,11 +155,11 @@ Below is the list of farms and data collected,
 
 
 <a name="SahyadriFarms"></a>
- 1. ***Sahyadri farms, a 'Unicorn' Farmer-Producer-Company (FPC), Nashik India***    
+ 1 ***Sahyadri farms, a 'Unicorn' Farmer-Producer-Company (FPC), Nashik India***    
     - https://www.sahyadrifarms.com/   
 
 <a name="AniritUrbanAgrofood"></a>
- 2. ***Hydroponic farming, Anirit Urban Agrofood,Nashik India***    
+ 2 ***Hydroponic farming, Anirit Urban Agrofood,Nashik India***    
     - [![AniritUrbanAgrofood!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\AniritUrbanAgrofood.JPG)](https://www.youtube.com/watch?v=tvmng4scpTM)    
     - https://www.aniriturbanagro.com/    
     - In this video 'Anirit Urban Agrofood' gave us a wonderful opportunity to visit their state-of-the-art hydroponic facility in Nashik India in April 2022.    
@@ -188,7 +188,7 @@ Below is the list of farms and data collected,
 
 
 <a name="Hollerhof"></a>   
- 3. ***Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany***     
+ 3 ***Organic family farm, Hollerhof, Hartmannsdorf-Reichenau Germany***     
     - ***Part 1***   
     - [![Hollerhof!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Hollerhof1.JPG)](https://www.youtube.com/watch?v=tvmng4scpTM)    
     - Video Chapters:   
@@ -315,11 +315,11 @@ Below is the list of farms and data collected,
 
 <a name="Eichenzell"></a>    
  9. ***Permaculture Garden, Eichenzell, Germany***    
-    -  [![Eichenzell!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Eichenzell.JPG)](https://youtu.be/sIMIx5eTuvQ)              
+    - [![Eichenzell!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Eichenzell.JPG)](https://youtu.be/sIMIx5eTuvQ)              
     - In this visit we got the opportunity to learn about the Permaculture way of farming!    
     - The farmer Konstantin, was farming this way for six years.    
     - I am able to help in planting, stringing and weed removing activities. Along with learning the Permaculture way of living life.   
-    - Video Chapters,  
+    - Video Chapters:     
         0:00 Permaculture Garden,  Eichenzell, Germany   
         0:25 Polyhouse For summer corps only    
         0:37 Permaculture Polyhouse Flowers for insect based Pollination   
