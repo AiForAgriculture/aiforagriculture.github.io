@@ -28,11 +28,6 @@
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Minal_Bombatkar_pusa_beej2021_certificate.jpg)
 
 
-
-
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/farm/20200819_170408.jpg)
-
-
 ---
 
 # Contents
