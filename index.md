@@ -229,7 +229,7 @@ Below is the list of farms and data collected,
          - https://www.rhs.org.uk/vegetables/asparagus/grow-your-own  
 
 <a name="Sonndorf"></a>    
- 4. ***Community Agriculture, Sonndorf,  Germany***       
+ 4 ***Community Agriculture, Sonndorf,  Germany***       
     - [![Sonndorf!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Sonndorf.JPG)](https://youtu.be/WeJ8HEcUYMo)    
     - In this type of Community Agriculture, farmers have members or subscribers, who are making monthly payments to farmers in return to get a box of produce from the farm.  
     - Members do not necessarily have to contribute to the farming activity.  
@@ -247,7 +247,7 @@ Below is the list of farms and data collected,
         07:47 Mulching with Wool   
 
 <a name="Passau"></a>    
- 5. ***Community Agriculture, Passau,  Germany***       
+ 5 ***Community Agriculture, Passau,  Germany***       
     - [![passau!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\passau.JPG)](https://youtu.be/lzyPImTcxt0)     
     - Yet another Community Agriculture near Passau.  
     - The farm is own by no one as farmer is passed away and have no one to take care of it. Hence community agriculture ia working out well here.  
@@ -261,7 +261,7 @@ Below is the list of farms and data collected,
         02:43 Polyhouse | For summer produce only.   
 
 <a name="Amberg"></a>    
- 6. ***Organic Wheat Farming, Amberg, Germany***       
+ 6 ***Organic Wheat Farming, Amberg, Germany***       
     - [![Amberg!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\amberg.JPG)](https://youtu.be/MEb-ZOKRWaA)      
     - Visited this lush yellow beautyful farm early morning for 'the action day'.  
     - A planed day where community supports farmer in some farming activity. Inreturn farmers serve them nice home made breakfast.   
@@ -274,7 +274,7 @@ Below is the list of farms and data collected,
         1:57 Introducing the other parts of field   
  
 <a name="Jandelsbrunn"></a>    
- 7. ***ISKCON Temple Farm, Jandelsbrunn, Germany***      
+ 7 ***ISKCON Temple Farm, Jandelsbrunn, Germany***      
     - [![Jandelsbrunn!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\sihachalam.JPG)](https://youtu.be/7atjs3JaTIM)         
     - Visited this beautifully maintained temple garden.  
     - We are able to connect to the gardener, who is maintaining the entire field by himself.   
@@ -297,7 +297,7 @@ Below is the list of farms and data collected,
         8:35 Net covers To keep bugs away without using any chemicals  
 
 <a name="Uffenheim"></a>    
- 8. ***Community Agriculture, Uffenheim, Germany***      
+ 8 ***Community Agriculture, Uffenheim, Germany***      
     - [![Uffenheim!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Uffenheim.JPG)](https://youtu.be/zNlCKkQrucY)          
     - Visited this neatly organized Community Agriculture farming group in Uffenheim.   
     - They got 6 polyhouses and few hecktors of open fields.  
@@ -314,7 +314,7 @@ Below is the list of farms and data collected,
         4:04 Here we collect potato's by hand   
 
 <a name="Eichenzell"></a>    
- 9. ***Permaculture Garden, Eichenzell, Germany***    
+ 9 ***Permaculture Garden, Eichenzell, Germany***    
     - [![Eichenzell!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\Eichenzell.JPG)](https://youtu.be/sIMIx5eTuvQ)              
     - In this visit we got the opportunity to learn about the Permaculture way of farming!    
     - The farmer Konstantin, was farming this way for six years.    
