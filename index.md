@@ -48,6 +48,7 @@
     - [7. ISKCON Temple Farm, Jandelsbrunn, Germany](#Jandelsbrunn)    
     - [8. Community Agriculture, Uffenheim, Germany](#Uffenheim)    
     - [9. Permaculture Garden, Eichenzell, Germany](#Eichenzell)    
+    - [10. Organic Goat Farming, Wallsdorf, Germany](#Wallsdorf)      
 
 - [Current research-in-progress case studies](#two) 
     - [1. Image based crops readiness for Potato farm](#Potato_farm)
@@ -330,7 +331,26 @@ Below is the list of farms and data collected,
         3:20 Ducks for eating slugs Permaculture practice    
         3:39 Horticulture Kitchen garden mixed with fruity trees   
 
+<a name="Wallsdorf"></a>    
+ 10 ***Organic Goat Farming Wallsdorf, Germany***    
+    - [![Wallsdorf!](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets\img\wallsdorf.JPG)](https://youtu.be/L122_oob33A)              
+    - 'Reimehof' The Organic Goat Farm, located in Franconian Switzerland!  
+    - It was a day tour with nice rain showers with the farmer herself. She showed us how goats raised organically and in healthy environment.   
+    - From her we learned the challenges they face in the goat farming.   
+    - Video Chapters:    
+        0:00 Organic Goat Farming Wallsdorf, Germany  
+        0:15 Trek start   
+        0:35 Rainy day   
+        1:05 Guided tour   
+        1:40 The mountain goats   
+        2:10 Male goats   
+        3:00 80 Goats for milk production   
+        3:30 Milking the goat   
+        3:48 Goat milking do's and dent's   
+        3:56 All goats have their names   
+        4:10 Goat produce testing time   
 
+        
 ----
 
 <a name="two"></a>
