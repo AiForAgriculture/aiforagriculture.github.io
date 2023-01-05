@@ -50,6 +50,9 @@
     - [9. Permaculture Garden, Eichenzell, Germany](#Eichenzell)    
     - [10. Organic Goat Farming, Wallsdorf, Germany](#Wallsdorf)      
 
+- [Publication](#Publication)
+    - [1. Palavee 2022, Maharashtra Mandal Munich](#Palavee_2022)
+
 - [Current research-in-progress case studies](#two) 
     - [1. Image based crops readiness for Potato farm](#Potato_farm)
     - [2. Sensors for collecting data](#Sensors)
@@ -351,6 +354,21 @@ Below is the list of farms and data collected,
         4:10 Goat produce testing time   
 
         
+----
+
+<a name="Publication"></a> 
+# Publication
+
+<a name="Palavee_2022"></a> 
+### 1. Palavee 2022, Maharashtra Mandal Munich
+        ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Palavee_2022_0001.jpg)
+
+        ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Palavee_2022_0002.jpg)
+
+        ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Palavee_2022_0002.jpg)
+
+
+
 ----
 
 <a name="two"></a>
