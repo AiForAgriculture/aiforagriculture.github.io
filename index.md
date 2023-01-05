@@ -366,7 +366,7 @@ Palavee_2022
 
 ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Palavee_2022_0002.jpg)   
 
-![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Palavee_2022_0002.jpg)   
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Palavee_2022_0003.jpg)   
 
 
 
