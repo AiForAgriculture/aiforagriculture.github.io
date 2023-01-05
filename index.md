@@ -352,7 +352,7 @@ Below is the list of farms and data collected,
         3:48 Goat milking do's and dent's   
         3:56 All goats have their names   
         4:10 Goat produce testing time   
-
+Palavee_2022
         
 ----
 
@@ -360,12 +360,13 @@ Below is the list of farms and data collected,
 # Publication
 
 <a name="Palavee_2022"></a> 
-### 1. Palavee 2022, Maharashtra Mandal Munich
-        ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Palavee_2022_0001.jpg)
+### 1. Palavee 2022, Maharashtra Mandal Munich   
 
-        ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Palavee_2022_0002.jpg)
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Palavee_2022_0001.jpg)   
 
-        ![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Palavee_2022_0002.jpg)
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Palavee_2022_0002.jpg)   
+
+![img](https://github.com/AiForAgriculture/aiforagriculture.github.io/raw/master/assets/img/Palavee_2022_0002.jpg)   
 
 
 
